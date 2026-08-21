@@ -46,9 +46,9 @@ Nuestro proyecto se fundamenta en la Agenda 2030. Nuestras metas específicas so
 | :---: | :--- | :--- | :--- | :---: |
 | <img src="Imagenes/ANDERSON.jpg" width="80" alt="Anderson Palomino"> | **Anderson Palomino** | 🎯 Líder del Equipo / CTO | Arquitectura, coordinación técnica | [GitHub](#) |
 | <img src="Imagenes/JordyMV.jpg" width="80"> | **[Jordy Martel]** | 🔬 Responsable de Inv. | Validación ambiental, análisis | [GitHub](#) |
-| <img src="https://via.placeholder.com/80" width="80"> | **[Nombre 3]** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario | [GitHub](#) |
-| <img src="https://via.placeholder.com/80" width="80"> | **[Nombre 4]** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario | [GitHub](#) |
+| <img src="https://via.placeholder.com/80" width="80"> | **Ivana** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario | [GitHub](#) |
 | <img src="Imagenes/luisj.jpg" width="80"> | **Luis Jara Mariño** | 📄 Documentación | Redacción de informes, gestión | [GitHub](#) |
+| <img src="Imagenes/luisj.jpg" width="80"> | **Albert** | 📄 Webe. | Apoyo emocional, gestión de proyectos | [GitHub](#) |
 
 > 💡 **Enfoque colaborativo:** Combinamos nuestras habilidades para crear soluciones tecnológicas con rigor científico y sensibilidad social.
 

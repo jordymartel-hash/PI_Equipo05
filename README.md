@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://github.com/user-attachments/assets/e3dce5fb-cd23-4aee-8a96-1f958714e830" width="700" alt="Logo Universidad" />
+  <img width="1514" height="573" alt="image" src="https://github.com/user-attachments/assets/e3dce5fb-cd23-4aee-8a96-1f958714e830" />
   
   <h1>🚀 Equipo 05 - Proyectos de Ingeniería 1</h1>
   
@@ -12,7 +12,6 @@
   <br><br>
 
 </div>
----
 
 ## 📋 Tabla de Contenidos
 - [🌍 Descripción del Equipo](#-descripción-del-equipo)

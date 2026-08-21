@@ -45,7 +45,7 @@ Nuestro proyecto se fundamenta en la Agenda 2030. Nuestras metas específicas so
 | :---: | :--- | :--- | :--- | :---: |
 | <img src="https://via.placeholder.com/80" width="80"> | **[Nombre 1]** | 🎯 Líder del Equipo / CTO | Arquitectura, coordinación técnica | [GitHub](#) |
 | <img src="https://via.placeholder.com/80" width="80"> | **Anderson Alonso Palomino** | 🔬 Responsable de Inv. | Validación ambiental, análisis | [GitHub](#) |
-| <img src="https://via.placeholder.com/80" width="80"> | **Luis Jara Mariño** | 🎨 Analista de Sostenibilidad | Gestión ambiental, Tecnologías limpias, Análisis de datos | [GitHub](#) |
+| <img src="https://via.placeholder.com/80" width="80"> | **Luis Jara Mariño** | 🎨 Analista de Sostenibilidad y Datos Ambientales | Gestión ambiental, Tecnologías limpias, Análisis de datos | [GitHub](#) |
 | <img src="https://via.placeholder.com/80" width="80"> | **Ivana Patricia Flores Ayala** | 📄 Ayudante | Diseño de prototipos (UX/UI), Creatividad aplicada, Sostenibilidad. | [GitHub](#) |
 | <img src="https://via.placeholder.com/80" width="80"> | **Martel Vásquez Jordy Joel** | 📄 Encargado de documentación | Comunicación científica, Redacción técnica, Desarrollo web. | [GitHub](#) |
 

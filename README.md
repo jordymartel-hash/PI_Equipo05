@@ -3,7 +3,7 @@
 </div>
 
 # Equipo 0X - Proyectos de Ingeniería 1
-Carrera de Ingeniería [Tu Carrera] | Universidad Peruana Cayetano Heredia
+Carrera de Ingeniería Informática/Ambiental/Industrial | Universidad Peruana Cayetano Heredia
 
 --
 
@@ -16,7 +16,7 @@ Carrera de Ingeniería [Tu Carrera] | Universidad Peruana Cayetano Heredia
 
 
 ## 🌍 Descripción del Equipo
-Somos el Equipo 0X del curso Proyectos de Ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería [Especialidad]. Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
+Somos el Equipo 05 del curso Proyectos de Ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería Informática. Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 
 ---
 

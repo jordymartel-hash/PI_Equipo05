@@ -1,11 +1,12 @@
 <div align="center">
   
-  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.png" />
+  <!-- Banner 3D Principal -->
+  <img width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" alt="Banner 3D Cayetano Heredia - Equipo 05" src="Imagenes/banner-3d.png" />
   
   <br><br>
 
   <h1>🚀 Equipo 05 — Proyectos de Ingeniería 1</h1>
-  <p><b>Carreras de Ingeniería Informática, Ambiental e Industrial</b><br>
+  <p><b>Ingeniería Informática • Ingeniería Ambiental • Ingeniería Industrial</b><br>
   <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-1</i></p>
 
   <p align="center">
@@ -16,6 +17,15 @@
   </p>
 
 </div>
+
+---
+
+<details open>
+  <summary><b>✨ Vista Previa del Concepto e Integración 3D (Clic para colapsar)</b></summary>
+  <br>
+  
+  > 📐 **Diseño Modular & IoT:** El prototipo integra captación flotante para fuentes superficiales, celdas solares para autonomía energética continua y transmisión de telemetría a la nube para generar alertas tempranas de salud comunitaria.
+</details>
 
 ---
 

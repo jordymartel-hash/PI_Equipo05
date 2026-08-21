@@ -55,11 +55,11 @@ Nuestro proyecto se alinea con los esfuerzos globales de las Naciones Unidas, im
 
 | Foto | Nombre | Rol Principal | Responsabilidades Clave |
 | :---: | :--- | :--- | :--- |
-| <img src="Imagenes/ANDERSON.jpg" width="80" style="border-radius:50%"> | **Anderson Palomino** | 🎯 Líder del Equipo / CTO | Arquitectura, coordinación técnica |
-| <img src="Imagenes/JordyMV.jpg" width="80" style="border-radius:50%"> | **Jordy Martel** | 🔬 Responsable de Inv. | Validación ambiental, análisis |
+| <img src="Imagenes/ANDERSON.jpg" width="80" style="border-radius:50%"> | **Anderson Palomino** | 🎯 Investigación / CTO | Control de calidad, Gestión de proyectos, Inteligencia Artificial. |
+| <img src="Imagenes/JordyMV.jpg" width="80" style="border-radius:50%"> | **Jordy Martel** | 🔬 Responsable de Inv. | Comunicación científica, Redacción técnica, Desarrollo web |
 | <img src="Imagenes/ivana-flores.jpg" width="80" style="border-radius:50%"> | **Ivana Flores** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario |
 | <img src="Imagenes/luisj.jpg" width="80" style="border-radius:50%"> | **Luis Jara Mariño** | 📄 Documentación | Redacción de informes, gestión |
-| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Alberto Diaz Quispe** | ⚙️ Soporte y Operaciones | Control de calidad y pruebas |
+| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Alberto Diaz Quispe** | ⚙️ Soporte y Operaciones | Creatividad aplicada, trabajo colaborativo |
 
 ---
 

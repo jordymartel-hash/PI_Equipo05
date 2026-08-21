@@ -5,7 +5,7 @@
 # Equipo 0X - Proyectos de Ingeniería 1
 Carrera de Ingeniería [Tu Carrera] | Universidad Peruana Cayetano Heredia
 
----
+--
 
 ## 📋 Tabla de Contenidos
 * 🌍 [Descripción del Equipo](#-descripción-del-equipo)

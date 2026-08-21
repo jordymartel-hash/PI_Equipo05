@@ -2,10 +2,10 @@
   <img src="https://via.placeholder.com/600x200?text=Logo+UPCH" alt="Logo Universidad" width="500">
 </div>
 
-# Equipo 0X - Proyectos de Ingeniería 1
-Carrera de Ingeniería [Tu Carrera] | Universidad Peruana Cayetano Heredia
+# Equipo 05 - Proyectos de Ingeniería 1
+Carrera de Ingeniería Informática/ Ambiental / Industrial | Universidad Peruana Cayetano Heredia
 
----
+--
 
 ## 📋 Tabla de Contenidos
 * 🌍 [Descripción del Equipo](#-descripción-del-equipo)
@@ -14,10 +14,9 @@ Carrera de Ingeniería [Tu Carrera] | Universidad Peruana Cayetano Heredia
 * 📁 [Estructura del Repositorio](#-estructura-del-repositorio)
 * 📬 [Contacto e Institución](#-contacto)
 
----
 
 ## 🌍 Descripción del Equipo
-Somos el Equipo 0X del curso Proyectos de Ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería [Especialidad]. Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
+Somos el Equipo 05 del curso Proyectos de Ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería Informática/ Ambiental / Industrial . Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 
 ---
 
@@ -44,10 +43,18 @@ Nuestro proyecto se fundamenta en la Agenda 2030. Nuestras metas específicas so
 
 | Foto | Nombre | Rol Principal | Responsabilidades Clave | Contacto |
 | :---: | :--- | :--- | :--- | :---: |
+<<<<<<< HEAD
 | <img src="ANDERSON.jpeg" width="80" alt="Anderson Palomino"> | **Anderson Palomino** | 🎯 Líder del Equipo / CTO | Arquitectura, coordinación técnica | [GitHub](#) |
 | <img src="https://via.placeholder.com/80" width="80"> | **[Nombre 2]** | 🔬 Responsable de Inv. | Validación ambiental, análisis | [GitHub](#) |
 | <img src="https://via.placeholder.com/80" width="80"> | **[Nombre 3]** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario | [GitHub](#) |
 | <img src="https://via.placeholder.com/80" width="80"> | **[Nombre 4]** | 📄 Documentación | Redacción de informes, gestión | [GitHub](#) |
+=======
+| <img src="https://via.placeholder.com/80" width="80"> | **[Nombre 1]** | 🎯 Líder del Equipo / CTO | Arquitectura, coordinación técnica | [GitHub](#) |
+| <img src="https://via.placeholder.com/80" width="80"> | **Anderson Alonso Palomino** | 🔬 Responsable de Inv. | Validación ambiental, análisis | [GitHub](#) |
+| <img src="https://via.placeholder.com/80" width="80"> | **Luis Jara Mariño** | 🎨 Analista de Sostenibilidad y Datos Ambientales | Gestión ambiental, Tecnologías limpias, Análisis de datos | [GitHub](#) |
+| <img src="https://via.placeholder.com/80" width="80"> | **Ivana Patricia Flores Ayala** | 📄 Ayudante | Diseño de prototipos (UX/UI), Creatividad aplicada, Sostenibilidad. | [GitHub](#) |
+| <img src="https://via.placeholder.com/80" width="80"> | **Martel Vásquez Jordy Joel** | 📄 Encargado de documentación | Comunicación científica, Redacción técnica, Desarrollo web. | [GitHub](#) |
+>>>>>>> b9656f2e7d376e60c95e62fc12e70aca76cf858f
 
 > 💡 **Enfoque colaborativo:** Combinamos nuestras habilidades para crear soluciones tecnológicas con rigor científico y sensibilidad social.
 

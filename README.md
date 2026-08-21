@@ -45,8 +45,8 @@ Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sos
 
 | ODS | Meta Clave | Aplicación en el Proyecto | Impacto Visual |
 | :---: | :--- | :--- | :---: |
-| <img src="ODS3.jpg" width="80" style="border-radius:50%"> | **Meta 3.9:** Reducir muertes y enfermedades causadas por agua contaminada y químicos peligrosos. | Sistema de diagnóstico preventivo en tiempo real que alerta al usuario de riesgos de consumo. | 🩺 **Salud Preventiva** |
-| <img src="ODS6.jpg" width="80" style="border-radius:50%"> | **Meta 6.1:** Lograr el acceso universal y equitativo al agua potable a un precio asequible. | Democratización del monitoreo hídrico mediante hardware de bajo costo para comunidades. | 💧 **Agua Limpia** |
+| <img src="Imagenes/ODS3.jpg" width="80" style="border-radius:50%"> | **Meta 3.9:** Reducir muertes y enfermedades causadas por agua contaminada y químicos peligrosos. | Sistema de diagnóstico preventivo en tiempo real que alerta al usuario de riesgos de consumo. | 🩺 **Salud Preventiva** |
+| <img src="Imagenes/ODS6.jpg" width="80" style="border-radius:50%"> | **Meta 6.1:** Lograr el acceso universal y equitativo al agua potable a un precio asequible. | Democratización del monitoreo hídrico mediante hardware de bajo costo para comunidades. | 💧 **Agua Limpia** |
 
 ---
 ## 👥 Equipo Multidisciplinario

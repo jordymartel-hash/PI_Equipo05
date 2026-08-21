@@ -14,7 +14,6 @@ Carrera de Ingeniería [Tu Carrera] | Universidad Peruana Cayetano Heredia
 * 📁 [Estructura del Repositorio](#-estructura-del-repositorio)
 * 📬 [Contacto e Institución](#-contacto)
 
-----.
 
 ## 🌍 Descripción del Equipo
 Somos el Equipo 0X del curso Proyectos de Ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería [Especialidad]. Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.

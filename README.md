@@ -44,9 +44,10 @@ Nuestro proyecto se fundamenta en la Agenda 2030. Nuestras metas específicas so
 | Foto | Nombre | Rol Principal | Responsabilidades Clave | Contacto |
 | :---: | :--- | :--- | :--- | :---: |
 | <img src="https://via.placeholder.com/80" width="80"> | **[Nombre 1]** | 🎯 Líder del Equipo / CTO | Arquitectura, coordinación técnica | [GitHub](#) |
-| <img src="https://via.placeholder.com/80" width="80"> | **[Anderson Alonso Palomino]** | 🔬 Responsable de Inv. | Validación ambiental, análisis | [GitHub](#) |
-| <img src="https://via.placeholder.com/80" width="80"> | **[Nombre 3]** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario | [GitHub](#) |
-| <img src="https://via.placeholder.com/80" width="80"> | **[Nombre 4]** | 📄 Documentación | Redacción de informes, gestión | [GitHub](#) |
+| <img src="https://via.placeholder.com/80" width="80"> | **Anderson Alonso Palomino** | 🔬 Responsable de Inv. | Validación ambiental, análisis | [GitHub](#) |
+| <img src="https://via.placeholder.com/80" width="80"> | **Luis Jara Mariño** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario | [GitHub](#) |
+| <img src="https://via.placeholder.com/80" width="80"> | **Ivana Patricia Flores Ayala** | 📄 Documentación | Redacción de informes, gestión | [GitHub](#) |
+| <img src="https://via.placeholder.com/80" width="80"> | **Martel Vásquez Jordy Joel** | 📄 Documentación | Redacción de informes, gestión | [GitHub](#) |
 
 > 💡 **Enfoque colaborativo:** Combinamos nuestras habilidades para crear soluciones tecnológicas con rigor científico y sensibilidad social.
 

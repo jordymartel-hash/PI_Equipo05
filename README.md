@@ -44,7 +44,7 @@ Nuestro proyecto se fundamenta en la Agenda 2030. Nuestras metas específicas so
 
 | Foto | Nombre | Rol Principal | Responsabilidades Clave | Contacto |
 | :---: | :--- | :--- | :--- | :---: |
-| <img src="Imagenes/ANDERSON.jpeg" width="80" alt="Anderson Palomino"> | **Anderson Palomino** | 🎯 Líder del Equipo / CTO | Arquitectura, coordinación técnica | [GitHub](#) |
+| <img src="Imagenes/ANDERSON.jpg" width="80" alt="Anderson Palomino"> | **Anderson Palomino** | 🎯 Líder del Equipo / CTO | Arquitectura, coordinación técnica | [GitHub](#) |
 | <img src="Imagenes/JordyMV.jpg" width="80"> | **[Jordy Martel]** | 🔬 Responsable de Inv. | Validación ambiental, análisis | [GitHub](#) |
 | <img src="https://via.placeholder.com/80" width="80"> | **[Nombre 3]** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario | [GitHub](#) |
 | <img src="https://via.placeholder.com/80" width="80"> | **[Nombre 4]** | 📄 Documentación | Redacción de informes, gestión | [GitHub](#) |

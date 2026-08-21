@@ -46,7 +46,7 @@ Nuestro proyecto se fundamenta en la Agenda 2030. Nuestras metas específicas so
 | :---: | :--- | :--- | :--- | :---: |
 | <img src="Imagenes/ANDERSON.jpg" width="80" alt="Anderson Palomino"> | **Anderson Palomino** | 🎯 Líder del Equipo / CTO | Arquitectura, coordinación técnica | [GitHub](#) |
 | <img src="Imagenes/JordyMV.jpg" width="80"> | **Jordy Martel** | 🔬 Responsable de Inv. | Validación ambiental, análisis | [GitHub](#) |
-| <img src="https://via.placeholder.com/80" width="80"> | **Ivana** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario | [GitHub](#) |
+| <img src="Imagenes/ivana-flores.jpg" width="80"> | **Ivana Flores** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario | [GitHub](#) |
 | <img src="Imagenes/luisj.jpg" width="80"> | **Luis Jara Mariño** | 📄 Documentación | Redacción de informes, gestión | [GitHub](#) |
 | <img src="Imagenes/albert.jpg" width="80"> | **Alberto Diaz Quispe** | 📄 full Webeo sig semen. |  Pierde el tiempo en el mee, puro chiste | [GitHub](#) |
 

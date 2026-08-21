@@ -59,7 +59,7 @@ Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sos
 | <img src="Imagenes/JordyMV.jpg" width="80" style="border-radius:50%"> | **Jordy Martel** | 🔬 Lider/Responsable de Inv. | Comunicación científica, Redacción técnica, Desarrollo web |
 | <img src="Imagenes/ivana-flores.jpg" width="80" style="border-radius:50%"> | **Ivana Flores** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario |
 | <img src="Imagenes/luisj.jpg" width="80" style="border-radius:50%"> | **Luis Jara Mariño** | 📄 Documentación | Redacción de informes, gestión |
-| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Alberto Diaz Quispe** | ⚙️ Soporte y Operaciones | Creatividad aplicada, trabajo colaborativo |
+| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Alberto Diaz ** | ⚙️ Soporte y Operaciones | Creatividad aplicada, trabajo colaborativo |
 
 ---
 

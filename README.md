@@ -45,4 +45,33 @@ Nuestro proyecto se alinea con los esfuerzos globales de las Naciones Unidas, im
 
 | Aplicación en el Proyecto | Impacto Visual |
 | :--- | :---: |
-| Democratizamos el monitoreo de calidad de agua, permitiendo que comunidades rurales tengan una herramienta asequible y confiable. | <img src="[https://via.placeholder.com/1](https://via.placeholder.com/1)
+| Democratizamos el monitoreo de calidad de agua, permitiendo que comunidades rurales tengan una herramienta asequible y confiable. | <img src="[https://via.placeholder.com/100?text=ODS+6](https://via.placeholder.com/100?text=ODS+6)" width="80"> |
+
+---
+
+## 👥 Equipo Multidisciplinario
+
+💡 **Enfoque colaborativo:** *Combinamos nuestras habilidades para crear soluciones tecnológicas con rigor científico y sensibilidad social.*
+
+| Foto | Nombre | Rol Principal | Responsabilidades Clave |
+| :---: | :--- | :--- | :--- |
+| <img src="Imagenes/ANDERSON.jpg" width="80" style="border-radius:50%"> | **Anderson Palomino** | 🎯 Líder del Equipo / CTO | Arquitectura, coordinación técnica |
+| <img src="Imagenes/JordyMV.jpg" width="80" style="border-radius:50%"> | **Jordy Martel** | 🔬 Responsable de Inv. | Validación ambiental, análisis |
+| <img src="Imagenes/ivana-flores.jpg" width="80" style="border-radius:50%"> | **Ivana Flores** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario |
+| <img src="Imagenes/luisj.jpg" width="80" style="border-radius:50%"> | **Luis Jara Mariño** | 📄 Documentación | Redacción de informes, gestión |
+| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Alberto Diaz Quispe** | ⚙️ Soporte y Operaciones | Control de calidad y pruebas |
+
+---
+
+## 📁 Estructura del Repositorio
+
+Para facilitar la revisión y reproducción del proyecto, el repositorio oficial está organizado de la siguiente manera:
+
+```text
+📁 PI_Equipo05/
+│
+├── 📁 Documentación/            # Informes, manuales y definiciones del problema
+├── 📁 Hardware/                 # Esquemas electrónicos, diseños 3D y componentes
+├── 📁 Imagenes/                 # Recursos visuales, logos, fotos y capturas
+├── 📁 Software/                 # Códigos fuente, scripts y programación
+└── 📄 README.md                 # Presentación principal del proyecto

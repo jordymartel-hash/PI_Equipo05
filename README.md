@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Imagenes/cayetano.png" alt="Logo Universidad" width="500">
+  <img src="Imagenes/cayetano.png" alt="Logo Universidad" width="300">
 </div>
 
 # Equipo 05 - Proyectos de Ingeniería 1

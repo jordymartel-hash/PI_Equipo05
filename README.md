@@ -81,6 +81,6 @@ Para facilitar la revisión y reproducción del proyecto, el repositorio oficial
 
 ## ✨ Contribuidores
 
-<a href="[https://github.com/jordymartel-hash/PI_Equipo05/graphs/contributors](https://github.com/jordymartel-hash/PI_Equipo05/graphs/contributors)">
-  <img src="[https://contrib.rocks/image?repo=jordymartel-hash/PI_Equipo05](https://contrib.rocks/image?repo=jordymartel-hash/PI_Equipo05)" />
+<a href="https://github.com/jordymartel-hash/PI_Equipo05/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jordymartel-hash/PI_Equipo05" />
 </a>

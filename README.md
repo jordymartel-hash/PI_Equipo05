@@ -3,7 +3,7 @@
 </div>
 
 # Equipo 0X - Proyectos de Ingeniería 1
-Carrera de Ingeniería [Tu Carrera] | Universidad Peruana Cayetano Heredia
+Carrera de Ingeniería Informática | Universidad Peruana Cayetano Heredia
 
 --
 

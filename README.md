@@ -1,12 +1,11 @@
 <div align="center">
   
-  <!-- Banner 3D Principal -->
-  <img width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" alt="Banner 3D Cayetano Heredia - Equipo 05" src="Imagenes/banner-3d.png" />
+  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.png" />
   
   <br><br>
 
   <h1>🚀 Equipo 05 — Proyectos de Ingeniería 1</h1>
-  <p><b>Ingeniería Informática • Ingeniería Ambiental • Ingeniería Industrial</b><br>
+  <p><b>Carreras de Ingeniería Informática, Ambiental e Industrial</b><br>
   <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-1</i></p>
 
   <p align="center">
@@ -20,24 +19,15 @@
 
 ---
 
-<details open>
-  <summary><b>✨ Vista Previa del Concepto e Integración 3D (Clic para colapsar)</b></summary>
-  <br>
-  
-  > 📐 **Diseño Modular & IoT:** El prototipo integra captación flotante para fuentes superficiales, celdas solares para autonomía energética continua y transmisión de telemetría a la nube para generar alertas tempranas de salud comunitaria.
-</details>
-
----
-
 ## 📋 Tabla de Contenidos
-- [🌍 Descripción del Equipo y Misión](#-descripción-del-equipo-y-misión)
-- [🎯 Alineación con los ODS](#-alineación-con-los-ods-agenda-2030)
-- [👥 Equipo Multidisciplinario](#-equipo-multidisciplinario)
-- [🔄 Metodología de Trabajo](#-metodología-de-trabajo)
-- [📁 Estructura del Repositorio](#-estructura-del-repositorio)
-- [🛠️ Tecnologías y Herramientas](#️-tecnologías-y-herramientas)
-- [📬 Contacto e Institución](#-contacto-e-institución)
-- [✨ Contribuidores](#-contribuidores)
+* [🌍 Descripción del Equipo y Misión](#-descripción-del-equipo-y-misión)
+* [🎯 Alineación con los ODS](#-alineación-con-los-ods-agenda-2030)
+* [👥 Equipo Multidisciplinario](#-equipo-multidisciplinario)
+* [🔄 Metodología de Trabajo](#-metodología-de-trabajo)
+* [📁 Estructura del Repositorio](#-estructura-del-repositorio)
+* [🛠️ Tecnologías y Herramientas](#️-tecnologías-y-herramientas)
+* [📬 Contacto e Institución](#-contacto-e-institución)
+* [✨ Contribuidores](#-contribuidores)
 
 ---
 

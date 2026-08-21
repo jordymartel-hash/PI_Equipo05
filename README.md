@@ -75,6 +75,7 @@ Para facilitar la revisión y reproducción del proyecto, el repositorio oficial
 ├── 📁 Imagenes/                 # Recursos visuales, logos, fotos y capturas
 ├── 📁 Software/                 # Códigos fuente, scripts y programación
 └── 📄 README.md                 # Presentación principal del proyecto
+```
 
 ---
 

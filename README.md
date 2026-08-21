@@ -4,9 +4,9 @@
   
   <br><br>
 
-  <h1>🚀 Equipo 05 — Proyectos de Ingeniería 1</h1>
-  <p><b>Carreras de Ingeniería Informática, Ambiental e Industrial</b><br>
-  <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-1</i></p>
+  <h1>🚀 Equipo 05 — Procesos de Innovacion Proyecto 1</h1>
+  <p><b>Carreras de Ingeniería Informática e Industrial</b><br>
+  <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-2</i></p>
 
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Estado-En_Desarrollo-2ea44f?style=for-the-badge&logo=github" alt="Estado"></a>
@@ -107,7 +107,7 @@ Para facilitar la navegación y el control de versiones, el proyecto está organ
 ## 📬 Contacto e Institución
 
 * **Universidad:** [Universidad Peruana Cayetano Heredia (UPCH)](https://www.cayetano.edu.pe)
-* **Curso:** Proyectos de Ingeniería 1 (2026-1)
+* **Curso:** Procesos de Innovación (2026-2)
 * **Repositorio GitHub:** [jordymartel-hash/PI_Equipo05](https://github.com/jordymartel-hash/PI_Equipo05)
 
 ---

@@ -1,54 +1,54 @@
 <div align="center">
   
-  <img width="1514" height="573" alt="Logo Universidad" src="Imagenes/cayetano.png" />
+  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.png" />
   
-  <h1>🚀 Equipo 05 - Proyectos de Ingeniería 1</h1>
-  
-  <p><i>Carrera de Ingeniería Informática, Ambiental e Industrial <br> Universidad Peruana Cayetano Heredia</i></p>
+  <br><br>
+
+  <h1>🚀 Equipo 05 — Proyectos de Ingeniería 1</h1>
+  <p><b>Carreras de Ingeniería Informática, Ambiental e Industrial</b><br>
+  <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-1</i></p>
+
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Estado-En_Desarrollo-2ea44f?style=for-the-badge&logo=github" alt="Estado"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Metodología-Design_Thinking-007ACC?style=for-the-badge&logo=visual-studio-code" alt="Metodología"></a>
+    <a href="#"><img src="https://img.shields.io/badge/ODS-3_%7C_6-4C9F38?style=for-the-badge&logo=unicef" alt="ODS"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Licencia-MIT-orange?style=for-the-badge" alt="Licencia"></a>
+  </p>
 
 </div>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Estado-En_Desarrollo-success?style=for-the-badge&logo=github" alt="Estado"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Metodología-Design_Thinking-blue?style=for-the-badge" alt="Metodología"></a>
-</p>
+---
 
 ## 📋 Tabla de Contenidos
-- [🌍 Descripción del Equipo](#-descripción-del-equipo)
-- [🎯 Alineación con los ODS](#-alineación-con-los-objetivos-de-desarrollo-sostenible-ods)
+- [🌍 Descripción del Equipo y Misión](#-descripción-del-equipo-y-misión)
+- [🎯 Alineación con los ODS](#-alineación-con-los-ods-agenda-2030)
 - [👥 Equipo Multidisciplinario](#-equipo-multidisciplinario)
+- [🔄 Metodología de Trabajo](#-metodología-de-trabajo)
 - [📁 Estructura del Repositorio](#-estructura-del-repositorio)
-- [📬 Contacto e Institución](#-contacto)
+- [🛠️ Tecnologías y Herramientas](#️-tecnologías-y-herramientas)
+- [📬 Contacto e Institución](#-contacto-e-institución)
+- [✨ Contribuidores](#-contribuidores)
 
 ---
 
-## 🌍 Descripción del Equipo
+## 🌍 Descripción del Equipo y Misión
 
-> **Misión del Proyecto:** Aplicar la metodología de diseño para generar soluciones innovadoras con un alto impacto social, tecnológico y ambiental.
+> 💡 **Misión del Proyecto:** Aplicar la metodología de diseño en ingeniería para concebir soluciones tecnológicas innovadoras, accesibles y con un alto impacto social, ambiental y comunitario.
 
-Somos el **Equipo 05** del curso *Proyectos de Ingeniería 2026-1*. Nuestro grupo está conformado por estudiantes de diversas ramas de la ingeniería (Informática, Ambiental e Industrial), lo que nos permite abordar las problemáticas desde múltiples perspectivas.
+Somos el **Equipo 05** del curso *Proyectos de Ingeniería 1 (2026-1)* de la **Universidad Peruana Cayetano Heredia**. Nuestro equipo integra estudiantes de las ramas de **Ingeniería Informática, Ambiental e Industrial**, lo que nos permite abordar los retos de diseño desde el rigor del software, la sensibilidad ambiental y la optimización de recursos.
 
 ---
 
 ## 🎯 Alineación con los ODS (Agenda 2030)
-Nuestro proyecto se alinea con los esfuerzos globales de las Naciones Unidas, impactando directamente en las siguientes metas:
 
-### 💊 ODS 3: Salud y Bienestar
-> *Meta 3.9: Reducir considerablemente el número de muertes y enfermedades causadas por productos químicos peligrosos y la contaminación.*
+Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sostenible de la ONU:
 
-| Aplicación en el Proyecto | Impacto Visual |
-| :--- | :---: |
-| El sistema previene enfermedades mediante un diagnóstico preventivo en tiempo real, alertando al usuario de posibles riesgos. | <img src="https://via.placeholder.com/100?text=ODS+3" width="80"> |
-
-### 💧 ODS 6: Agua Limpia y Saneamiento
-> *Meta 6.1: Lograr el acceso universal y equitativo al agua potable a un precio asequible para todos.*
-
-| Aplicación en el Proyecto | Impacto Visual |
-| :--- | :---: |
-| Democratizamos el monitoreo de calidad de agua, permitiendo que comunidades rurales tengan una herramienta asequible y confiable. | <img src="https://via.placeholder.com/100?text=ODS+6" width="80"> |
+| ODS | Meta Clave | Aplicación en el Proyecto | Impacto Visual |
+| :---: | :--- | :--- | :---: |
+| <img src="ODS3.jpg" width="65" alt="ODS 3" onerror="this.src='https://via.placeholder.com/65/4C9F38/FFFFFF?text=ODS+3'"> | **Meta 3.9:** Reducir muertes y enfermedades causadas por agua contaminada y químicos peligrosos. | Sistema de diagnóstico preventivo en tiempo real que alerta al usuario de riesgos de consumo. | 🩺 **Salud Preventiva** |
+| <img src="ODS6.jpg" width="65" alt="ODS 6" onerror="this.src='https://via.placeholder.com/65/26BDE2/FFFFFF?text=ODS+6'"> | **Meta 6.1:** Lograr el acceso universal y equitativo al agua potable a un precio asequible. | Democratización del monitoreo hídrico mediante hardware de bajo costo para comunidades. | 💧 **Agua Limpia** |
 
 ---
-
 ## 👥 Equipo Multidisciplinario
 
 💡 **Enfoque colaborativo:** *Combinamos nuestras habilidades para crear soluciones tecnológicas con rigor científico y sensibilidad social.*
@@ -63,24 +63,64 @@ Nuestro proyecto se alinea con los esfuerzos globales de las Naciones Unidas, im
 
 ---
 
+## 🔄 Metodología de Trabajo
+
+Aplicamos el marco de **Design Thinking** a lo largo de las siguientes etapas:
+
+- [x] **1. Empatizar:** Levantamiento de necesidades en el usuario y contexto ambiental.
+- [x] **2. Definir:** Delimitación del problema central y requerimientos técnicos.
+- [x] **3. Idear:** Propuestas de solución de hardware y software multiparamétrico.
+- [ ] **4. Prototipar (En curso):** Ensamble del primer prototipo físico y plataforma de datos.
+- [ ] **5. Testear:** Pruebas experimentales y validación con usuarios.
+
+---
+
 ## 📁 Estructura del Repositorio
 
-Para facilitar la revisión y reproducción del proyecto, el repositorio oficial está organizado de la siguiente manera:
+Para facilitar la navegación y el control de versiones, el proyecto está organizado así:
 
 ```text
 📁 PI_Equipo05/
 │
-├── 📁 Documentación/            # Informes, manuales y definiciones del problema
-├── 📁 Hardware/                 # Esquemas electrónicos, diseños 3D y componentes
-├── 📁 Imagenes/                 # Recursos visuales, logos, fotos y capturas
-├── 📁 Software/                 # Códigos fuente, scripts y programación
-└── 📄 README.md                 # Presentación principal del proyecto
+├── 📁 Documentación/           # Informes técnicos, entregables y matriz de diseño
+├── 📁 Hardware/                # Diagramas circuitales, esquemáticos y modelos 3D
+├── 📁 Imagenes/                # Recursos gráficos, fotografías del equipo y logos
+├── 📁 Software/                # Código fuente del microcontrolador, scripts y web
+└── 📄 README.md                # Presentación general del proyecto
 ```
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+---
+
+## 📬 Contacto e Institución
+
+* **Universidad:** [Universidad Peruana Cayetano Heredia (UPCH)](https://www.cayetano.edu.pe)
+* **Curso:** Proyectos de Ingeniería 1 (2026-1)
+* **Repositorio GitHub:** [jordymartel-hash/PI_Equipo05](https://github.com/jordymartel-hash/PI_Equipo05)
 
 ---
 
 ## ✨ Contribuidores
 
-<a href="https://github.com/jordymartel-hash/PI_Equipo05/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jordymartel-hash/PI_Equipo05" />
-</a>
+<p align="center">
+  <a href="https://github.com/jordymartel-hash/PI_Equipo05/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=jordymartel-hash/PI_Equipo05" alt="Gráfico de Contribuidores" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Desarrollado con compromiso por el <b>Equipo 05</b> • UPCH © 2026</sub>
+</p>
+

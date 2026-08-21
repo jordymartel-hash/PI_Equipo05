@@ -1,17 +1,17 @@
 <div align="center">
   
-  <img width="1514" height="573" alt="image" src="[https://github.com/user-attachments/assets/e3dce5fb-cd23-4aee-8a96-1f958714e830](https://github.com/user-attachments/assets/e3dce5fb-cd23-4aee-8a96-1f958714e830)" />
+  <img width="1514" height="573" alt="Logo Universidad" src="Imagenes/cayetano.png" />
   
   <h1>🚀 Equipo 05 - Proyectos de Ingeniería 1</h1>
   
   <p><i>Carrera de Ingeniería Informática, Ambiental e Industrial <br> Universidad Peruana Cayetano Heredia</i></p>
 
-  <!-- Badges / Etiquetas decorativas -->
-  <img src="[https://img.shields.io/badge/Estado-En_Desarrollo-success?style=for-the-badge&logo=github](https://img.shields.io/badge/Estado-En_Desarrollo-success?style=for-the-badge&logo=github)" alt="Estado">
-  <img src="[https://img.shields.io/badge/Metodología-Design_Thinking-blue?style=for-the-badge](https://img.shields.io/badge/Metodología-Design_Thinking-blue?style=for-the-badge)" alt="Metodología">
-  <br><br>
-
 </div>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Estado-En_Desarrollo-success?style=for-the-badge&logo=github" alt="Estado"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Metodología-Design_Thinking-blue?style=for-the-badge" alt="Metodología"></a>
+</p>
 
 ## 📋 Tabla de Contenidos
 - [🌍 Descripción del Equipo](#-descripción-del-equipo)
@@ -38,14 +38,14 @@ Nuestro proyecto se alinea con los esfuerzos globales de las Naciones Unidas, im
 
 | Aplicación en el Proyecto | Impacto Visual |
 | :--- | :---: |
-| El sistema previene enfermedades mediante un diagnóstico preventivo en tiempo real, alertando al usuario de posibles riesgos. | <img src="[https://via.placeholder.com/100?text=ODS+3](https://via.placeholder.com/100?text=ODS+3)" width="80"> |
+| El sistema previene enfermedades mediante un diagnóstico preventivo en tiempo real, alertando al usuario de posibles riesgos. | <img src="https://via.placeholder.com/100?text=ODS+3" width="80"> |
 
 ### 💧 ODS 6: Agua Limpia y Saneamiento
 > *Meta 6.1: Lograr el acceso universal y equitativo al agua potable a un precio asequible para todos.*
 
 | Aplicación en el Proyecto | Impacto Visual |
 | :--- | :---: |
-| Democratizamos el monitoreo de calidad de agua, permitiendo que comunidades rurales tengan una herramienta asequible y confiable. | <img src="[https://via.placeholder.com/100?text=ODS+6](https://via.placeholder.com/100?text=ODS+6)" width="80"> |
+| Democratizamos el monitoreo de calidad de agua, permitiendo que comunidades rurales tengan una herramienta asequible y confiable. | <img src="https://via.placeholder.com/100?text=ODS+6" width="80"> |
 
 ---
 

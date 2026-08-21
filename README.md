@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="Imagenes/cayetano.png" alt="Logo Universidad" width="300">
-</div>
+<h1 align="center" style="color: #0000FF; font-weight: bold;">
+  Equipo 01 - Proyectos para Ingeniería 1
+</h1>
+<img width="1514" height="573" alt="image" src="https://github.com/user-attachments/assets/e3dce5fb-cd23-4aee-8a96-1f958714e830" />
+
 
 # Equipo 05 - Proyectos de Ingeniería 1
 Carrera de Ingeniería Informática/ Ambiental / Industrial | Universidad Peruana Cayetano Heredia

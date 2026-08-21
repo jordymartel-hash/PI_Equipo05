@@ -2,8 +2,8 @@
   <img src="https://via.placeholder.com/600x200?text=Logo+UPCH" alt="Logo Universidad" width="500">
 </div>
 
-# Equipo 0X - Proyectos de Ingeniería 1
-Carrera de Ingeniería Informática | Universidad Peruana Cayetano Heredia
+# Equipo 05 - Proyectos de Ingeniería 1
+Carrera de Ingeniería Informática/ Ambiental / Industrial | Universidad Peruana Cayetano Heredia
 
 --
 
@@ -16,7 +16,7 @@ Carrera de Ingeniería Informática | Universidad Peruana Cayetano Heredia
 
 
 ## 🌍 Descripción del Equipo
-Somos el Equipo 05 del curso Proyectos de Ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería [Especialidad]. Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
+Somos el Equipo 05 del curso Proyectos de Ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería Informática/ Ambiental / Industrial . Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 
 ---
 

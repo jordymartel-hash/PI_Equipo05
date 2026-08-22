@@ -11,7 +11,7 @@
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Estado-En_Desarrollo-2ea44f?style=for-the-badge&logo=github" alt="Estado"></a>
     <a href="#"><img src="https://img.shields.io/badge/Metodología-Design_Thinking-007ACC?style=for-the-badge&logo=visual-studio-code" alt="Metodología"></a>
-    <a href="#"><img src="https://img.shields.io/badge/ODS-3_%7C_6-4C9F38?style=for-the-badge&logo=unicef" alt="ODS"></a>
+    <a href="#"><img src="https://img.shields.io/badge/ODS-3_%7C_6_%7C_9-4C9F38?style=for-the-badge&logo=unicef" alt="ODS"></a>
     <a href="#"><img src="https://img.shields.io/badge/Licencia-MIT-orange?style=for-the-badge" alt="Licencia"></a>
   </p>
 
@@ -22,11 +22,11 @@
 ## 📋 Tabla de Contenidos
 * [🌍 Descripción del Equipo y Misión](#-descripción-del-equipo-y-misión)
 * [🎯 Alineación con los ODS](#-alineación-con-los-ods-agenda-2030)
-* [👥 Equipo Multidisciplinario](#-equipo-multidisciplinario)
+* [👥 Equipo Multidisciplinario y Contacto](#-equipo-multidisciplinario-y-contacto)
 * [🔄 Metodología de Trabajo](#-metodología-de-trabajo)
 * [📁 Estructura del Repositorio](#-estructura-del-repositorio)
 * [🛠️ Tecnologías y Herramientas](#️-tecnologías-y-herramientas)
-* [📬 Contacto e Institución](#-contacto-e-institución)
+* [📬 Institución](#-institución)
 * [✨ Contribuidores](#-contribuidores)
 
 ---
@@ -35,7 +35,7 @@
 
 > 💡 **Misión del Proyecto:** Aplicar la metodología de diseño en ingeniería para concebir soluciones tecnológicas innovadoras, accesibles y con un alto impacto social, ambiental y comunitario.
 
-Somos el **Equipo 05** del curso *Proyectos de Ingeniería 1 (2026-1)* de la **Universidad Peruana Cayetano Heredia**. Nuestro equipo integra estudiantes de las ramas de **Ingeniería Informática, Ambiental e Industrial**, lo que nos permite abordar los retos de diseño desde el rigor del software, la sensibilidad ambiental y la optimización de recursos.
+Somos el **Equipo 05** del curso *Proyectos de Ingeniería 1 (2026-2)* de la **Universidad Peruana Cayetano Heredia**. Nuestro equipo integra estudiantes de las ramas de **Ingeniería Informática, Ambiental e Industrial**, lo que nos permite abordar los retos de diseño desde el rigor del software, la sensibilidad ambiental y la optimización de recursos.
 
 ---
 
@@ -47,19 +47,21 @@ Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sos
 | :---: | :--- | :--- | :---: |
 | <img src="Imagenes/ODS3.jpg" width="80" style="border-radius:50%"> | **Meta 3.9:** Reducir muertes y enfermedades causadas por agua contaminada y químicos peligrosos. | Sistema de diagnóstico preventivo en tiempo real que alerta al usuario de riesgos de consumo. | 🩺 **Salud Preventiva** |
 | <img src="Imagenes/ODS6.jpg" width="80" style="border-radius:50%"> | **Meta 6.1:** Lograr el acceso universal y equitativo al agua potable a un precio asequible. | Democratización del monitoreo hídrico mediante hardware de bajo costo para comunidades. | 💧 **Agua Limpia** |
+| <img src="Imagenes/ODS9.jpg" width="80" style="border-radius:50%"> | **Meta 9.b:** Apoyar el desarrollo de tecnologías, la investigación y la innovación nacionales. | Desarrollo de infraestructura tecnológica propia, accesible y basada en hardware de código abierto. | 💡 **Innovación** |
 
 ---
-## 👥 Equipo Multidisciplinario
+
+## 👥 Equipo Multidisciplinario y Contacto
 
 💡 **Enfoque colaborativo:** *Combinamos nuestras habilidades para crear soluciones tecnológicas con rigor científico y sensibilidad social.*
 
-| Foto | Nombre | Rol Principal | Responsabilidades Clave |
+| Foto | Nombre | Rol Principal | Correo Institucional |
 | :---: | :--- | :--- | :--- |
-| <img src="Imagenes/ANDERSON.jpg" width="80" style="border-radius:50%"> | **Anderson Palomino** | 🎯 Investigación / CTO | Control de calidad, Gestión de proyectos, Inteligencia Artificial. |
-| <img src="Imagenes/JordyMV.jpg" width="80" style="border-radius:50%"> | **Jordy Martel** | 🔬 Lider/Responsable de Inv. | Comunicación científica, Redacción técnica, Desarrollo web |
-| <img src="Imagenes/ivana-flores.jpg" width="80" style="border-radius:50%"> | **Ivana Flores** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario |
-| <img src="Imagenes/luisj.jpg" width="80" style="border-radius:50%"> | **Luis Jara Mariño** | 📄 Documentación | Redacción de informes, gestión |
-| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Albert Diaz** | ⚙️ Soporte y Operaciones | Creatividad aplicada, trabajo colaborativo |
+| <img src="Imagenes/ANDERSON.jpg" width="80" style="border-radius:50%"> | **Anderson Palomino** | 🎯 Investigación / CTO | `anderson.palomino@upch.pe` |
+| <img src="Imagenes/JordyMV.jpg" width="80" style="border-radius:50%"> | **Jordy Martel** | 🔬 Líder / Responsable Inv. | `jordy.martel@upch.pe` |
+| <img src="Imagenes/ivana-flores.jpg" width="80" style="border-radius:50%"> | **Ivana Flores** | 🎨 Diseñador UX/UI | `ivana.flores@upch.pe` |
+| <img src="Imagenes/luisj.jpg" width="80" style="border-radius:50%"> | **Luis Jara Mariño** | 📄 Documentación | `luis.jara@upch.pe` |
+| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Albert Diaz** | ⚙️ Soporte y Operaciones | `albert.diaz@upch.pe` |
 
 ---
 
@@ -82,11 +84,11 @@ Para facilitar la navegación y el control de versiones, el proyecto está organ
 ```text
 📁 PI_Equipo05/
 │
-├── 📁 Documentación/           # Informes técnicos, entregables y matriz de diseño
-├── 📁 Hardware/                # Diagramas circuitales, esquemáticos y modelos 3D
-├── 📁 Imagenes/                # Recursos gráficos, fotografías del equipo y logos
-├── 📁 Software/                # Código fuente del microcontrolador, scripts y web
-└── 📄 README.md                # Presentación general del proyecto
+├── 📁 Documentación/     # Informes técnicos, entregables y matriz de diseño
+├── 📁 Hardware/          # Diagramas circuitales, esquemáticos y modelos 3D
+├── 📁 Imagenes/          # Recursos gráficos, fotografías del equipo y logos
+├── 📁 Software/          # Código fuente del microcontrolador, scripts y web
+└── 📄 README.md          # Presentación general del proyecto
 ```
 
 ---

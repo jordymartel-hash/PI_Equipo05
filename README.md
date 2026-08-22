@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.jpg" style="border-radius: 15px;" />
+  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.png" style="border-radius: 15px;" />
   
   <br><br>
 
@@ -123,7 +123,7 @@ Para facilitar la navegación y el control de versiones, el proyecto está organ
 </p>
 
 <p align="center">
-  <img src="Imagenes/grupo5.jpg" width="850" style="max-width: 100%; height: auto; border-radius: 15px;">
+  <img src="Imagenes/grupo05.png" width="850" style="max-width: 100%; height: auto; border-radius: 15px;">
 </p>
 <p align="center">Figura 1. Fotografía del equipo 05</p>
 

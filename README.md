@@ -55,13 +55,13 @@ Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sos
 
 💡 **Enfoque colaborativo:** *Combinamos nuestras habilidades para crear soluciones tecnológicas con rigor científico y sensibilidad social.*
 
-| Foto | Nombre | Rol Principal | Correo Institucional |
-| :---: | :--- | :--- | :--- |
-| <img src="Imagenes/ANDERSON.jpg" width="80" style="border-radius:50%"> | **Anderson Palomino** | 🎯 Investigación / CTO | `anderson.palomino@upch.pe` |
-| <img src="Imagenes/JordyMV.jpg" width="80" style="border-radius:50%"> | **Jordy Martel** | 🔬 Líder / Responsable Inv. | `jordy.martel@upch.pe` |
-| <img src="Imagenes/ivana-flores.jpg" width="80" style="border-radius:50%"> | **Ivana Flores** | 🎨 Diseñador UX/UI | `ivana.flores@upch.pe` |
-| <img src="Imagenes/luisj.jpg" width="80" style="border-radius:50%"> | **Luis Jara Mariño** | 📄 Documentación | `luis.jara@upch.pe` |
-| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Albert Diaz** | ⚙️ Soporte y Operaciones | `albert.diaz@upch.pe` |
+| Foto | Nombre | Rol Principal | Responsabilidades Clave | Correo Institucional |
+| :---: | :--- | :--- | :--- | :--- |
+| <img src="Imagenes/ANDERSON.jpg" width="80" style="border-radius:50%"> | **Anderson Palomino** | 🎯 Investigación / CTO | Control de calidad, Gestión de proyectos, Inteligencia Artificial. | `anderson.palomino@upch.pe` |
+| <img src="Imagenes/JordyMV.jpg" width="80" style="border-radius:50%"> | **Jordy Martel** | 🔬 Líder / Responsable Inv. | Comunicación científica, Redacción técnica, Desarrollo web | `jordy.martel@upch.pe` |
+| <img src="Imagenes/ivana-flores.jpg" width="80" style="border-radius:50%"> | **Ivana Flores** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario | `ivana.flores@upch.pe` |
+| <img src="Imagenes/luisj.jpg" width="80" style="border-radius:50%"> | **Luis Jara Mariño** | 📄 Documentación | Redacción de informes, gestión | `luis.jara@upch.pe` |
+| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Albert Diaz** | ⚙️ Soporte y Operaciones | Creatividad aplicada, trabajo colaborativo | `albert.diaz@upch.pe` |
 
 ---
 

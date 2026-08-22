@@ -124,7 +124,7 @@ Para facilitar la navegación y el control de versiones, el proyecto está organ
 
 
 <p align="center">
-<img src="Imagenes/GRUPO.jpg" width="80" style="border-radius:50%"> 
+<img src="Imagenes/GRUPO.jpg" width="80" style="border-radius:90%"> 
  </p>
 Figura 1. Fotografía del equipo 01
 

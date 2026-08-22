@@ -35,19 +35,19 @@
 
 > 💡 **Misión del Proyecto:** Aplicar la metodología de diseño en ingeniería para identificar y abordar problemáticas reales de la sociedad y la comunidad, desarrollando soluciones tecnológicas innovadoras, accesibles, sostenibles y orientadas a las necesidades de los usuarios. El proyecto busca integrar conocimientos de ingeniería, tecnología, análisis de datos y gestión ambiental para generar soluciones eficientes y viables, promoviendo el uso responsable de los recursos, la reducción del impacto ambiental y el mejoramiento de la calidad de vida de las personas y de su entorno.
 
-Somos el **Equipo 05** del curso *Proyectos de Ingeniería 1 (2026-2)* de la **Universidad Peruana Cayetano Heredia**. Nuestro equipo integra estudiantes de las ramas de **Ingeniería Informática, Ambiental e Industrial**, lo que nos permite abordar los retos de diseño desde el rigor del software, la sensibilidad ambiental y la optimización de recursos.
+Somos el **Equipo 05** del curso *Proyectos de Ingeniería 1 (2026-2)* de la **Universidad Peruana Cayetano Heredia**. Nuestro equipo integra estudiantes de las ramas de **Ingeniería Informática, Ambiental e Industrial**, Esta diversidad nos permite integrar el desarrollo tecnológico y de software, la gestión y sostenibilidad ambiental, y la optimización de procesos y recursos, logrando un enfoque multidisciplinario para diseñar soluciones innovadoras, eficientes y orientadas a las necesidades reales de la sociedad y la comunidad.
 
 ---
 
 ## 🎯 Alineación con los ODS (Agenda 2030)
 
-Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sostenible de la ONU:
+Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sostenible (ODS) de la ONU:
 
 | ODS | Meta Clave | Aplicación en el Proyecto | Impacto Visual |
 | :---: | :---: | :---: | :---: |
 | <img src="Imagenes/ODS3.jpg" width="80" style="border-radius:50%"> | **Meta 3.9:** Reducir muertes y enfermedades causadas por agua contaminada y químicos peligrosos. | Sistema de diagnóstico preventivo en tiempo real que alerta al usuario de riesgos de consumo. | 🩺 **Salud Preventiva** |
-| <img src="Imagenes/ODS6.jpg" width="80" style="border-radius:50%"> | **Meta 6.1:** Lograr el acceso universal y equitativo al agua potable a un precio asequible. | Democratización del monitoreo hídrico mediante hardware de bajo costo para comunidades. | 💧 **Agua Limpia** |
-| <img src="Imagenes/ODS9.jpg" width="80" style="border-radius:50%"> | **Meta 9.b:** Apoyar el desarrollo de tecnologías, la investigación y la innovación nacionales. | Desarrollo de infraestructura tecnológica propia, accesible y basada en hardware de código abierto. | 💡 **Innovación** |
+| <img src="Imagenes/ODS6.jpg" width="80" style="border-radius:50%"> | **Meta 6.1:** Lograr el acceso universal y equitativo al agua potable a un precio accesible. | Democratización del monitoreo hídrico mediante hardware de bajo costo para comunidades necesitadas. | 💧 **Agua Limpia** |
+| <img src="Imagenes/ODS9.jpg" width="80" style="border-radius:50%"> | **Meta 9.b:** Apoyar el desarrollo de tecnologías, la investigación y la innovación nacional. | Desarrollo de infraestructura tecnológica propia, accesible y basada en hardware de código abierto. | 💡 **Innovación** |
 
 ---
 
@@ -70,16 +70,16 @@ Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sos
 Aplicamos el marco de **Design Thinking** a lo largo de las siguientes etapas:
 
 - [x] **1. Empatizar:** Levantamiento de necesidades en el usuario y contexto ambiental.
-- [x] **2. Definir:** Delimitación del problema central y requerimientos técnicos.
-- [x] **3. Idear:** Propuestas de solución de hardware y software multiparamétrico.
-- [ ] **4. Prototipar (En curso):** Ensamble del primer prototipo físico y plataforma de datos.
-- [ ] **5. Testear:** Pruebas experimentales y validación con usuarios.
+- [x] **2. Definir:** Delimitación del problema central y requerimientos técnicos necesarios que cumplan con lo propuesto.
+- [x] **3. Idear:** Propuestas de solución de hardware y software multiparamétrico que sean viables y accesibles.
+- [ ] **4. Prototipar (En curso):** Ensamble del primer prototipo físico y construcción de plataforma de datos.
+- [ ] **5. Testear:** Pruebas experimentales y validación con usuarios para evaluar el correcto funcionamiento.
 
 ---
 
 ## 📁 Estructura del Repositorio
 
-Para facilitar la navegación y el control de versiones, el proyecto está organizado así:
+Para facilitar la navegación y el control de versiones, el proyecto está organizado de la siguiente manera:
 
 ```text
 📁 PI_Equipo05/
@@ -109,7 +109,7 @@ Para facilitar la navegación y el control de versiones, el proyecto está organ
 ## 📬 Contacto e Institución
 
 * **Universidad:** [Universidad Peruana Cayetano Heredia (UPCH)](https://www.cayetano.edu.pe)
-* **Curso:** Procesos de Innovación (2026-2)
+* **Curso:** Procesos de Innovación en Ingeniería (2026-2)
 * **Repositorio GitHub:** [jordymartel-hash/PI_Equipo05](https://github.com/jordymartel-hash/PI_Equipo05)
 
 ---

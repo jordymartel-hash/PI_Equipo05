@@ -26,7 +26,7 @@
 * [🔄 Metodología de Trabajo](#-metodología-de-trabajo)
 * [📁 Estructura del Repositorio](#-estructura-del-repositorio)
 * [🛠️ Tecnologías y Herramientas](#️-tecnologías-y-herramientas)
-* [📬 Institución](#-institución)
+* [📬 Institución](#-Contacto-e-Institución)
 * [✨ Contribuidores](#-contribuidores)
 
 ---

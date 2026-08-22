@@ -57,7 +57,7 @@ Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sos
 
 | Foto | Nombre | Rol Principal | Responsabilidades Clave | Correo Institucional |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Albert** | 📄 Encargado de documentación | Creatividad aplicada, trabajo colaborativo | `albert.diaz@upch.pe` |
+| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Albert** | 📄 lechero | Creatividad aplicada, trabajo colaborativo | `albert.diaz@upch.pe` |
 | <img src="Imagenes/ANDERSON.jpg" width="80" style="border-radius:50%"> | **Anderson Alonso Palomino** | 🎯 Investigación | Control de calidad, Gestión de proyectos, Inteligencia Artificial. | `anderson.palomino@upch.pe` |
 | <img src="Imagenes/luisj.jpg" width="80" style="border-radius:50%"> | **Luis Gerardo Jara Mariño** | ⚖️ Moderador | Redacción de informes, gestión | `luis.jara@upch.pe` |
 | <img src="Imagenes/ivana-flores.jpg" width="80" style="border-radius:50%"> | **Ivana Patricia Flores Ayala** | 🤝 Ayudante | Prototipado, experiencia de usuario | `ivana.flores@upch.pe` |

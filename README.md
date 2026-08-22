@@ -33,7 +33,7 @@
 
 ## 🌍 Descripción del Equipo y Misión
 
-> 💡 **Misión del Proyecto:** Aplicar la metodología de diseño en ingeniería para concebir soluciones tecnológicas innovadoras, accesibles y con un alto impacto social, ambiental y comunitario.
+> 💡 **Misión del Proyecto:** Aplicar la metodología de diseño en ingeniería para identificar y abordar problemáticas reales de la sociedad y la comunidad, desarrollando soluciones tecnológicas innovadoras, accesibles, sostenibles y orientadas a las necesidades de los usuarios. El proyecto busca integrar conocimientos de ingeniería, tecnología, análisis de datos y gestión ambiental para generar soluciones eficientes y viables, promoviendo el uso responsable de los recursos, la reducción del impacto ambiental y el mejoramiento de la calidad de vida de las personas y de su entorno.
 
 Somos el **Equipo 05** del curso *Proyectos de Ingeniería 1 (2026-2)* de la **Universidad Peruana Cayetano Heredia**. Nuestro equipo integra estudiantes de las ramas de **Ingeniería Informática, Ambiental e Industrial**, lo que nos permite abordar los retos de diseño desde el rigor del software, la sensibilidad ambiental y la optimización de recursos.
 
@@ -59,7 +59,7 @@ Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sos
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Albert Mauricio Diaz Silvera** | 📄 Investigador | Creatividad aplicada, trabajo colaborativo | `albert.diaz@upch.pe` |
 | <img src="Imagenes/ANDERSON.jpg" width="80" style="border-radius:50%"> | **Anderson Alonso Palomino** | 🎯 Investigación | Control de calidad, Gestión de proyectos, Inteligencia Artificial. | `anderson.palomino@upch.pe` |
-| <img src="Imagenes/luisj.jpg" width="80" style="border-radius:50%"> | **Luis Gerardo Jara Mariño** | ⚖️ Moderador | Redacción de informes, gestión | `luis.jara@upch.pe` |
+| <img src="Imagenes/luisj.jpg" width="80" style="border-radius:50%"> | **Luis Gerardo Jara Mariño** | ⚖️ Moderador | Redacción de informes, gestión | `luis.jara.m@upch.pe` |
 | <img src="Imagenes/ivana-flores.jpg" width="80" style="border-radius:50%"> | **Ivana Patricia Flores Ayala** | 🤝 Ayudante | Prototipado, experiencia de usuario | `ivana.flores@upch.pe` |
 | <img src="Imagenes/JordyMV.jpg" width="80" style="border-radius:50%"> | **Martel Vásquez Jordy Joel** | 👑 Líder | Comunicación científica, Redacción técnica, Desarrollo web | `jordy.martel@upch.pe` |
 

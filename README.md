@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.jpg" />
+  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.jpg" style="border-radius: 15px;" />
   
   <br><br>
 
@@ -124,12 +124,10 @@ Para facilitar la navegación y el control de versiones, el proyecto está organ
 
 
 <p align="center">
-<img src="Imagenes/grupo5.jpg" width="600" style="max-width: 100%; height: auto;">
- </p>
-Figura 1. Fotografía del equipo 01
-
+  <img src="Imagenes/grupo5.jpg" width="600" style="max-width: 100%; height: auto; border-radius: 15px;">
+</p>
+<p align="center">Figura 1. Fotografía del equipo 05</p>
 
 <p align="center">
   <sub>Desarrollado con compromiso por el <b>Equipo 05</b> • UPCH © 2026</sub>
 </p>
-

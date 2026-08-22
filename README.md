@@ -122,6 +122,13 @@ Para facilitar la navegación y el control de versiones, el proyecto está organ
   </a>
 </p>
 
+#iMAGEN
+<p align="center">
+<img width="640" height="360" alt="imagen" src="https://github.com/user-attachments/assets/90dd89f5-9781-43c1-b2cb-49231252244b" />
+ </p>
+Figura 1. Fotografía del equipo 01
+
+
 <p align="center">
   <sub>Desarrollado con compromiso por el <b>Equipo 05</b> • UPCH © 2026</sub>
 </p>

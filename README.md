@@ -44,7 +44,7 @@ Somos el **Equipo 05** del curso *Proyectos de Ingeniería 1 (2026-2)* de la **U
 Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sostenible de la ONU:
 
 | ODS | Meta Clave | Aplicación en el Proyecto | Impacto Visual |
-| :---: | :--- | :--- | :---: |
+| :---: | :---: | :---: | :---: |
 | <img src="Imagenes/ODS3.jpg" width="80" style="border-radius:50%"> | **Meta 3.9:** Reducir muertes y enfermedades causadas por agua contaminada y químicos peligrosos. | Sistema de diagnóstico preventivo en tiempo real que alerta al usuario de riesgos de consumo. | 🩺 **Salud Preventiva** |
 | <img src="Imagenes/ODS6.jpg" width="80" style="border-radius:50%"> | **Meta 6.1:** Lograr el acceso universal y equitativo al agua potable a un precio asequible. | Democratización del monitoreo hídrico mediante hardware de bajo costo para comunidades. | 💧 **Agua Limpia** |
 | <img src="Imagenes/ODS9.jpg" width="80" style="border-radius:50%"> | **Meta 9.b:** Apoyar el desarrollo de tecnologías, la investigación y la innovación nacionales. | Desarrollo de infraestructura tecnológica propia, accesible y basada en hardware de código abierto. | 💡 **Innovación** |
@@ -56,7 +56,7 @@ Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sos
 💡 **Enfoque colaborativo:** *Combinamos nuestras habilidades para crear soluciones tecnológicas con rigor científico y sensibilidad social.*
 
 | Foto | Nombre | Rol Principal | Responsabilidades Clave | Correo Institucional |
-| :---: | :--- | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: | :---: |
 | <img src="Imagenes/ANDERSON.jpg" width="80" style="border-radius:50%"> | **Anderson Palomino** | 🎯 Investigación / CTO | Control de calidad, Gestión de proyectos, Inteligencia Artificial. | `anderson.palomino@upch.pe` |
 | <img src="Imagenes/JordyMV.jpg" width="80" style="border-radius:50%"> | **Jordy Martel** | 🔬 Líder / Responsable Inv. | Comunicación científica, Redacción técnica, Desarrollo web | `jordy.martel@upch.pe` |
 | <img src="Imagenes/ivana-flores.jpg" width="80" style="border-radius:50%"> | **Ivana Flores** | 🎨 Diseñador UX/UI | Prototipado, experiencia de usuario | `ivana.flores@upch.pe` |

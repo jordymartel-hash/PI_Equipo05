@@ -5,7 +5,7 @@
   <br><br>
 
   <h1>🚀 Equipo 05 — Procesos de Innovacion Proyecto 1</h1>
-  <p><b>Carreras de Ingeniería Informática e Industrial</b><br>
+  <p><b>Carreras de Ingeniería Informática, Ambiental e Industrial</b><br>
   <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-2</i></p>
 
   <p align="center">
@@ -123,7 +123,7 @@ Para facilitar la navegación y el control de versiones, el proyecto está organ
 </p>
 
 <p align="center">
-  <img src="Imagenes/grupo5.jpg" width="600" style="max-width: 100%; height: auto; border-radius: 15px;">
+  <img src="Imagenes/grupo5.jpg" width="850" style="max-width: 100%; height: auto; border-radius: 15px;">
 </p>
 <p align="center">Figura 1. Fotografía del equipo 05</p>
 

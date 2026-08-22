@@ -122,9 +122,9 @@ Para facilitar la navegación y el control de versiones, el proyecto está organ
   </a>
 </p>
 
-#iMAGEN
+
 <p align="center">
-<img width="640" height="360" alt="imagen" src="https://github.com/user-attachments/assets/90dd89f5-9781-43c1-b2cb-49231252244b" />
+<img src="Imagenes/GRUPO.jpg" width="80" style="border-radius:50%"> 
  </p>
 Figura 1. Fotografía del equipo 01
 

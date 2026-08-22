@@ -1,9 +1,6 @@
-<h1 align="center" style="color: #0000FF; font-weight: bold;">
-</h1>
-
-<p align="center">
-  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.jpg" />
-</p>
+<div align="center">
+  
+  <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.jpg" style="border-radius: 15px;" />
   
   <br><br>
 
@@ -121,7 +118,7 @@ Para facilitar la navegación y el control de versiones, el proyecto está organ
 
 <p align="center">
   <a href="https://github.com/jordymartel-hash/PI_Equipo05/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=jordymartel-hash/PI_Equipo05" alt="Gráfico de Contribuidores" />
+    <img src="https://contrib.rocks/image?repo=jordymartel-hash/PI_Equipo05&v=1" alt="Gráfico de Contribuidores" />
   </a>
 </p>
 

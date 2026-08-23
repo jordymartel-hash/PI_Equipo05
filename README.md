@@ -103,7 +103,7 @@ Aplicamos el marco de **Design Thinking** para desarrollar la solución de maner
 
 ---
 
-## 📊 Estado Actual del Proyecto
+<div align="center">
 
 | Componente | Estado |
 | :--- | :---: |
@@ -114,6 +114,8 @@ Aplicamos el marco de **Design Thinking** para desarrollar la solución de maner
 | Desarrollo de hardware | 🔄 En curso |
 | Plataforma de datos | 🔄 En curso |
 | Pruebas experimentales | ⏳ Pendiente |
+
+</div>
 
 ---
 

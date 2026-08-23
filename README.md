@@ -103,6 +103,8 @@ Aplicamos el marco de **Design Thinking** para desarrollar la solución de maner
 
 ---
 
+## 📊 Estado Actual del Proyecto
+
 <div align="center">
 
 | Componente | Estado |

@@ -84,8 +84,11 @@ Aplicamos las fases iterativas de **Design Thinking** para estructurar nuestra s
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  [![Excel](https://shields.io)](https://microsoft.com)
+  <img src="https://shields.io" alt="Excel">
+  <img src="https://shields.io" alt="Word">
+  <img src="https://shields.io" alt="PowerPoint">
 </p>
+
 
 ---
 

@@ -36,7 +36,15 @@
 > 💡 **Misión del Proyecto:** Aplicar la metodología de diseño en ingeniería para identificar y abordar problemáticas reales de la sociedad y la comunidad, desarrollando soluciones tecnológicas innovadoras, accesibles, sostenibles y orientadas a las necesidades de los usuarios. El proyecto busca integrar conocimientos de ingeniería, tecnología, análisis de datos y gestión ambiental para generar soluciones eficientes y viables, promoviendo el uso responsable de los recursos, la reducción del impacto ambiental y el mejoramiento de la calidad de vida de las personas y de su entorno.
 
 Somos el **Equipo 05** del curso *Proyectos de Ingeniería 1 (2026-2)* de la **Universidad Peruana Cayetano Heredia**. Nuestro equipo está conformado por estudiantes de **Ingeniería Informática, Ambiental e Industrial**, lo que nos permite abordar los retos de diseño desde diferentes campos de estudio y perspectivas de la ingeniería. Esta diversidad abre la posibilidad de integrar el desarrollo tecnológico y de software, la gestión y sostenibilidad ambiental, la optimización de procesos y recursos, logrando un enfoque multidisciplinario para desarrollar soluciones innovadoras, eficientes, orientadas a las necesidades reales de la sociedad y la comunidad.
+---
 
+## 🧩 Problemática
+
+El proyecto surge a partir de la necesidad de mejorar el acceso a información confiable sobre la calidad del agua, especialmente en contextos donde el monitoreo de parámetros ambientales puede verse limitado por el costo de los equipos, la disponibilidad de tecnologías especializadas o la falta de herramientas accesibles.
+
+Esta problemática dificulta la identificación oportuna de posibles riesgos asociados a la calidad del agua y limita la capacidad de los usuarios para tomar decisiones informadas sobre su entorno.
+
+Frente a esta situación, nuestro equipo plantea el desarrollo de una solución tecnológica de monitoreo multiparamétrico que permita recopilar, procesar y visualizar información relevante de manera accesible, eficiente y comprensible.
 ---
 
 ## 🎯 Alineación con los ODS (Agenda 2030)

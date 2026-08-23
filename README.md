@@ -57,11 +57,11 @@ Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sos
 
 | Foto | Nombre | Rol Principal | Responsabilidades Clave | Correo Institucional |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Albert Mauricio Diaz Silvera** | 📄 Investigador | Creatividad aplicada, trabajo colaborativo | `albert.diaz@upch.pe` |
-| <img src="Imagenes/ANDERSON.jpg" width="80" style="border-radius:50%"> | **Anderson Alonso Palomino** | 🎯 Investigación | Control de calidad, Gestión de proyectos, Inteligencia Artificial. | `anderson.palomino@upch.pe` |
-| <img src="Imagenes/luisj.jpg" width="80" style="border-radius:50%"> | **Luis Gerardo Jara Mariño** | ⚖️ Moderador | Redacción de informes, gestión | `luis.jara.m@upch.pe` |
-| <img src="Imagenes/ivana-flores.jpg" width="80" style="border-radius:50%"> | **Ivana Patricia Flores Ayala** | 🤝 Ayudante | Prototipado, experiencia de usuario | `ivana.flores@upch.pe` |
-| <img src="Imagenes/JordyMV.jpg" width="80" style="border-radius:50%"> | **Martel Vásquez Jordy Joel** | 👑 Líder | Comunicación científica, Redacción técnica, Desarrollo web | `jordy.martel@upch.pe` |
+| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Albert Mauricio Diaz Silvera** | 📄 Gestor de Datos | Logica y creatividad aplicada. | `albert.diaz@upch.pe` |
+| <img src="Imagenes/ANDERSON.jpg" width="80" style="border-radius:50%"> | **Anderson Alonso Palomino** | 🎯 Desarrollador IoT  | Programación de conexiones de hardware y administración del repositorio. | `anderson.palomino@upch.pe` |
+| <img src="Imagenes/luisj.jpg" width="80" style="border-radius:50%"> | **Luis Gerardo Jara Mariño** | ⚖️ Diseñador de Hardware | Redacción de informes, gestión | `luis.jara.m@upch.pe` |
+| <img src="Imagenes/ivana-flores.jpg" width="80" style="border-radius:50%"> | **Ivana Patricia Flores Ayala** | 🤝 Investigación y Evaluación | Prototipado, experiencia de usuario | `ivana.flores@upch.pe` |
+| <img src="Imagenes/JordyMV.jpg" width="80" style="border-radius:50%"> | **Martel Vásquez Jordy Joel** | 👑 Líder | Comunicación científica, Redacción técnica. | `jordy.martel@upch.pe` |
 
 ---
 

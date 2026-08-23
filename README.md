@@ -24,7 +24,6 @@
 * [🎯 Alineación con los ODS](#-alineación-con-los-ods-agenda-2030)
 * [👥 Equipo Multidisciplinario y Contacto](#-equipo-multidisciplinario-y-contacto)
 * [🔄 Metodología de Trabajo](#-metodología-de-trabajo)
-* [📁 Estructura del Repositorio](#-estructura-del-repositorio)
 * [🛠️ Tecnologías y Herramientas](#️-tecnologías-y-herramientas)
 * [📬 Institución](#-Contacto-e-Institución)
 * [✨ Contributors](#-contribuidores)

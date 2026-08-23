@@ -77,15 +77,8 @@ Aplicamos las fases iterativas de **Design Thinking** para estructurar nuestra s
 
 ## 🛠️ Tecnologías y Herramientas
 
-<p align="center">
-  <img src="https://shields.io" alt="Arduino">
-  <img src="https://shields.io" alt="C++">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="Figma">
-  <img src="https://shields.io" alt="Git">
-  <img src="https://shields.io" alt="GitHub">
-  <img src="https://shields.io" alt="Excel">
-</p>
+<p align="center"><img src="https://shields.io" alt="Arduino"> <img src="https://shields.io" alt="C++"> <img src="https://shields.io" alt="Python"> <img src="https://shields.io" alt="Figma"> <img src="https://shields.io" alt="Git"> <img src="https://shields.io" alt="GitHub"> <img src="https://shields.io" alt="Excel"></p>
+
 
 
 

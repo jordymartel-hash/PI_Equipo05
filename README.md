@@ -138,6 +138,7 @@ Para facilitar la navegación y el control de versiones, el proyecto está organ
 * **Universidad:** [Universidad Peruana Cayetano Heredia (UPCH)](https://www.cayetano.edu.pe)
 * **Curso:** Procesos de Innovación en Ingeniería (2026-2)
 * **Repositorio GitHub:** [jordymartel-hash/PI_Equipo05](https://github.com/jordymartel-hash/PI_Equipo05)
+* **Coordinador del curso:** UMBERT LEWIS DE LA CRUZ RODRIGUEZ 👨‍🏫
 * **Docente:** CLAUDIA ESTEFANIA DEJO PRADO 👩‍🏫
 
 ---

@@ -70,9 +70,19 @@ Aplicamos las fases iterativas de **Design Thinking** para estructurar nuestra s
 
 ---
 
+<div align="center">
+
 ## 📊 Estado Actual del Proyecto
 
-                                              
+| Componente | Estado |
+| :--- | :---: |
+| Investigación del problema | 🔄 En curso |
+| Identificación de necesidades | 🔄 En curso |
+| Definición del problema | 🔄 En curso |
+| Diseño del prototipo | 🔄 En curso |
+| Desarrollo de hardware | 🔄 En curso |
+| Plataforma de datos | 🔄 En curso |
+| Pruebas experimentales | ⏳ Pendiente |
 
 ---
 

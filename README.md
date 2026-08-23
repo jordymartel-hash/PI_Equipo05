@@ -94,13 +94,12 @@ Desarrollar una solución tecnológica accesible y eficiente para monitorear, pr
 
 ## 🔄 Metodología de Trabajo
 
-Aplicamos el marco de **Design Thinking** a lo largo de las siguientes etapas:
-
-- [x] **1. Empatizar:** Levantamiento de necesidades en el usuario y contexto ambiental.
-- [x] **2. Definir:** Delimitación del problema central y requerimientos técnicos necesarios que cumplan con lo propuesto.
-- [x] **3. Idear:** Propuestas de solución de hardware y software multiparamétrico que sean viables y accesibles.
-- [ ] **4. Prototipar (En curso):** Ensamble del primer prototipo físico y construcción de plataforma de datos.
-- [ ] **5. Testear:** Pruebas experimentales y validación con usuarios para evaluar el correcto funcionamiento.
+Aplicamos el marco de **Design Thinking** para desarrollar la solución de manera iterativa, partiendo de las necesidades identificadas hasta llegar a la validación del prototipo.
+- [x] **1. Empatizar:** Levantamiento de necesidades, problemáticas y expectativas de los usuarios, considerando las características del contexto ambiental y social.
+- [x] **2. Definir:** Delimitación del problema central a partir de la información recopilada, estableciendo objetivos, requerimientos técnicos y criterios de diseño.
+- [x] **3. Idear:** Generación y evaluación de diferentes alternativas de solución de hardware y software multiparamétrico, considerando su viabilidad, accesibilidad e impacto.
+- [ ] **4. Prototipar (En curso):** Ensamble del primer prototipo físico y desarrollo de la plataforma de datos, integrando los componentes tecnológicos necesarios.
+- [ ] **5. Testear:** Realización de pruebas experimentales y validación con usuarios para evaluar el funcionamiento, precisión, usabilidad y oportunidades de mejora.
 
 ---
 

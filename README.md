@@ -84,6 +84,8 @@ Aplicamos las fases iterativas de **Design Thinking** para estructurar nuestra s
 | Plataforma de datos | 🔄 En curso |
 | Pruebas experimentales | ⏳ Pendiente |
 
+</div>
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas

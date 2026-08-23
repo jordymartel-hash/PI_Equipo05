@@ -1,33 +1,43 @@
 <div align="center">
+  
   <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.png" style="border-radius: 15px;" />
+  
   <br><br>
 
   <h1>🚀 Equipo 05 — Procesos de Innovación en Ingeniería - Proyecto 1</h1>
   <p><b>Carreras de Ingeniería Informática, Ambiental e Industrial</b><br>
-  <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-II</i></p>
+  <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-2</i></p>
 
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Estado-En_Desarrollo-2ea44f?style=for-the-badge&logo=github" alt="Estado"></a>
     <a href="#"><img src="https://img.shields.io/badge/Metodología-Design_Thinking-007ACC?style=for-the-badge&logo=visual-studio-code" alt="Metodología"></a>
-    <a href="#"><img src="https://img.shields.io/badge/ODS-8_%7C_9_%7C_12-4C9F38?style=for-the-badge&logo=unicef" alt="ODS"></a>
+    <a href="#"><img src="https://img.shields.io/badge/ODS-3_%7C_6_%7C_9-4C9F38?style=for-the-badge&logo=unicef" alt="ODS"></a>
     <a href="#"><img src="https://img.shields.io/badge/Licencia-MIT-orange?style=for-the-badge" alt="Licencia"></a>
   </p>
+
 </div>
 
 ---
 
-## 🎯 Descripción del Proyecto
-
-> 💡 **Misión del Proyecto:** Este repositorio contiene el desarrollo del proyecto final del curso, aplicando la metodología de *Design Thinking* (Empatizar, Definir, Idear, Prototipar, Evaluar). Nuestro objetivo es analizar un problema real, procesar los datos asociados y proponer una solución innovadora.
-
-Somos el **Equipo 05** del curso *Procesos de Innovación en Ingeniería*. Nuestro valor diferencial es la **multidisciplinariedad**:
-* **Ingeniería Industrial:** Lidera la estructuración, el análisis de datos y la viabilidad logística para asegurar que la propuesta sea operativa, escalable y reduzca ineficiencias.
-* **Ingeniería Ambiental:** Garantiza que la solución responda a normativas y promueva la sostenibilidad de los recursos.
-* **Ingeniería Informática:** Desarrolla la arquitectura de software y hardware para la captura y procesamiento de información en tiempo real.
+## 📋 Tabla de Contenidos
+* [🌍 Descripción del Equipo y Misión](#-descripción-del-equipo-y-misión)
+* [🎯 Alineación con los ODS](#-alineación-con-los-ods-agenda-2030)
+* [👥 Equipo Multidisciplinario y Contacto](#-equipo-multidisciplinario-y-contacto)
+* [🔄 Metodología de Trabajo](#-metodología-de-trabajo)
+* [🛠️ Tecnologías y Herramientas](#️-tecnologías-y-herramientas)
+* [📬 Institución](#-Contacto-e-Institución)
+* [✨ Contributors](#-contribuidores)
 
 ---
 
-## 🌍 Relación con los Objetivos de Desarrollo Sostenible (ODS)
+## 🌍 Descripción del Equipo y Misión
+
+> 💡 Nuestro Objetivo: Aplicar el análisis de datos y la optimización de procesos para resolver problemáticas de sostenibilidad, buscando identificar cuellos de botella y exceso de mermas en cadenas de suministro/logística. Mediante la recopilación y análisis de datos, propondremos una solución que optimice el uso de recursos, reduciendo el impacto ambiental y mejorando la eficiencia operativa.
+
+**Somos el Equipo 05 del curso Procesos de Innovación en Ingeniería (2026-2) de la Universidad Peruana Cayetano Heredia. Nuestro equipo está conformado por estudiantes de Ingeniería Informática, Ambiental e Industrial, lo que nos permite abordar los retos de diseño desde diferentes campos de estudio y perspectivas de la ingeniería. Esta diversidad abre la posibilidad de integrar el desarrollo tecnológico y de software, la gestión y sostenibilidad ambiental, la optimización de procesos y recursos, logrando un enfoque multidisciplinario para desarrollar soluciones innovadoras, eficientes, orientadas a las necesidades reales de la sociedad y la comunidad.**
+---
+
+## 🎯 Relación con los Objetivos de Desarrollo Sostenible (ODS)
 
 Nuestra solución tecnológica busca transformar grandes volúmenes de datos en información estratégica, impactando directamente en los siguientes ODS:
 

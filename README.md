@@ -56,7 +56,7 @@ Nuestra solución tecnológica busca transformar grandes volúmenes de datos en 
 ## 🔄 Metodología de Trabajo
 
 Aplicamos las fases iterativas de **Design Thinking** para estructurar nuestra solución tecnológica:
-- [x] **1. Empatizar:** Levantamiento de datos cualitativos (*Desk Research* y entrevistas) para comprender el ecosistema del usuario y sus cuellos de botella logísticos.
+- [ ] **1. Empatizar:** Levantamiento de datos cualitativos (*Desk Research* y entrevistas) para comprender el ecosistema del usuario y sus cuellos de botella logísticos.
 - [ ] **2. Definir:** Procesamiento de *Insights* y delimitación del problema central basándonos en evidencia.
 - [ ] **3. Idear:** Generación de alternativas que crucen la viabilidad operativa con la eficiencia de recursos.
 - [ ] **4. Prototipar (En curso):** Ensamble del MVP (Producto Mínimo Viable) y estructuración de la base de datos central.

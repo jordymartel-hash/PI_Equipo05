@@ -39,16 +39,6 @@ Somos el **Equipo 05** del curso *Procesos de Innovación en Ingeniería (2026-2
 
 ---
 
-## 🧩 Problemática
-
-El proyecto surge a partir de la necesidad de mejorar el acceso a información confiable sobre la calidad del agua, especialmente en contextos donde el monitoreo de parámetros ambientales puede verse limitado por el costo de los equipos, la disponibilidad de tecnologías especializadas o la falta de herramientas accesibles.
-
-Esta problemática dificulta la identificación oportuna de posibles riesgos asociados a la calidad del agua y limita la capacidad de los usuarios para tomar decisiones informadas sobre su entorno.
-
-Frente a esta situación, nuestro equipo plantea el desarrollo de una solución tecnológica de monitoreo multiparamétrico que permita recopilar, procesar y visualizar información relevante de manera accesible, eficiente y comprensible.
-
----
-
 ## 🎯 Alineación con los ODS 
 
 Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sostenible (ODS):

@@ -32,10 +32,10 @@
 
 ## 🌍 Descripción del Equipo y Misión
 
-> 💡 **Misión del Proyecto:** Aplicar la metodología de diseño en ingeniería para identificar y abordar problemáticas reales de la sociedad y la comunidad, desarrollando soluciones tecnológicas innovadoras, accesibles, sostenibles y orientadas a las necesidades de los usuarios. El proyecto busca integrar conocimientos de ingeniería, tecnología, análisis de datos y gestión ambiental para generar soluciones eficientes y viables, promoviendo el uso responsable de los recursos, la reducción del impacto ambiental y el mejoramiento de la calidad de vida de las personas y de su entorno.
+> 💡 Nuestro Objetivo: Aplicar el análisis de datos y la optimización de procesos (Ingeniería Industrial) para resolver problemáticas de sostenibilidad, buscando identificar cuellos de botella y exceso de mermas en cadenas de suministro/logística. Mediante la recopilación y análisis de datos, propondremos una solución que optimice el uso de recursos, reduciendo el impacto ambiental y mejorando la eficiencia operativa.
+
 
 Somos el **Equipo 05** del curso *Procesos de Innovación en Ingeniería (2026-2)* de la **Universidad Peruana Cayetano Heredia**. Nuestro equipo está conformado por estudiantes de **Ingeniería Informática, Ambiental e Industrial**, lo que nos permite abordar los retos de diseño desde diferentes campos de estudio y perspectivas de la ingeniería. Esta diversidad abre la posibilidad de integrar el desarrollo tecnológico y de software, la gestión y sostenibilidad ambiental, la optimización de procesos y recursos, logrando un enfoque multidisciplinario para desarrollar soluciones innovadoras, eficientes, orientadas a las necesidades reales de la sociedad y la comunidad.
-
 ---
 
 ## 🎯 Alineación con los ODS 

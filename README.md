@@ -32,9 +32,7 @@
 
 ## 🌍 Descripción del Equipo y Misión
 
-> 💡 Nuestro Objetivo: Aplicar el análisis de datos y la optimización de procesos para resolver problemáticas de sostenibilidad, buscando identificar cuellos de botella y exceso de mermas en cadenas de suministro/logística. Mediante la recopilación y análisis de datos, propondremos una solución que optimice el uso de recursos, reduciendo el impacto ambiental y mejorando la eficiencia operativa.
-
-**Somos el Equipo 05 del curso Procesos de Innovación en Ingeniería (2026-2) de la Universidad Peruana Cayetano Heredia. Nuestro equipo está conformado por estudiantes de Ingeniería Informática, Ambiental e Industrial, lo que nos permite abordar los retos de diseño desde diferentes campos de estudio y perspectivas de la ingeniería. Esta diversidad abre la posibilidad de integrar el desarrollo tecnológico y de software, la gestión y sostenibilidad ambiental, la optimización de procesos y recursos, logrando un enfoque multidisciplinario para desarrollar soluciones innovadoras, eficientes, orientadas a las necesidades reales de la sociedad y la comunidad.**
+>**El Equipo 5 del curso Procesos de Innovación en Ingeniería de la Universidad Peruana Cayetano Heredia integra a estudiantes de Ingeniería Informática, Ambiental e Industrial. Nosotros tenemos de objetivo es aplicar análisis de datos y optimización de procesos para resolver problemas de sostenibilidad, reduciendo mermas, mejorando la eficiencia operativa y minimizando el impacto ambiental en cadenas de suministro.**
 ---
 
 ## 🎯 Relación con los Objetivos de Desarrollo Sostenible (ODS)

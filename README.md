@@ -45,8 +45,6 @@ Nuestra solución tecnológica busca transformar grandes volúmenes de datos en 
 | <img src="Imagenes/ODS12.jpg" width="60" style="border-radius:50%"> | **ODS 12: Producción y Consumo Responsables** | Análisis de datos operativos para la reducción sistemática de mermas, desperdicios y uso ineficiente de recursos. |
 | <img src="Imagenes/ODS8.jpg" width="60" style="border-radius:50%"> | **ODS 8: Trabajo Decente y Crecimiento Económico** | Mejora de la productividad mediante la toma de decisiones basada en evidencia (*Data-driven*) y automatización. |
 
-*(Nota: Asegúrate de tener las imágenes ODS9.jpg, ODS12.jpg y ODS8.jpg en tu carpeta "Imagenes" para que se visualicen correctamente).*
-
 ---
 
 ## 👥 Equipo Multidisciplinario y Contacto

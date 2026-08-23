@@ -21,7 +21,7 @@
 
 ## 📋 Tabla de Contenidos
 * [🌍 Descripción del Equipo y Misión](#-descripción-del-equipo-y-misión)
-* [🎯 Alineación con los ODS](#-alineación-con-los-ods-agenda-2030)
+* [🎯 Relación con los Objetivos de Desarrollo Sostenible (ODS)](#-alineación-con-los-ods-agenda-2030)
 * [👥 Equipo Multidisciplinario y Contacto](#-equipo-multidisciplinario-y-contacto)
 * [🔄 Metodología de Trabajo](#-metodología-de-trabajo)
 * [🛠️ Tecnologías y Herramientas](#️-tecnologías-y-herramientas)

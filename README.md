@@ -162,11 +162,6 @@ Para facilitar la navegación y el control de versiones, el proyecto está organ
 
 ## ✨ Contributors
 
-<p align="center">
-  <a href="https://github.com/jordymartel-hash/PI_Equipo05/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=jordymartel-hash/PI_Equipo05&limpiarcache=12345" alt="Gráfico de Contribuidores" />
-  </a>
-</p>
 
 <p align="center">
   <img src="Imagenes/grupo05.png" width="850" style="max-width: 100%; height: auto; border-radius: 15px;">

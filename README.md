@@ -104,6 +104,22 @@ Aplicamos el marco de **Design Thinking** a lo largo de las siguientes etapas:
 
 ---
 
+## 📊 Estado Actual del Proyecto
+
+| Componente | Estado |
+| :--- | :---: |
+| Investigación del problema | ✅ Completado |
+| Identificación de necesidades | ✅ Completado |
+| Definición del problema | ✅ Completado |
+| Generación de alternativas | ✅ Completado |
+| Diseño del prototipo | 🔄 En curso |
+| Desarrollo de hardware | 🔄 En curso |
+| Plataforma de datos | 🔄 En curso |
+| Pruebas experimentales | ⏳ Pendiente |
+| Validación con usuarios | ⏳ Pendiente |
+
+---
+
 ## 📁 Estructura del Repositorio
 
 Para facilitar la navegación y el control de versiones, el proyecto está organizado de la siguiente manera:

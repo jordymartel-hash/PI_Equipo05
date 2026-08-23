@@ -9,33 +9,35 @@
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Estado-En_Desarrollo-2ea44f?style=for-the-badge&logo=github" alt="Estado"></a>
     <a href="#"><img src="https://img.shields.io/badge/Metodología-Design_Thinking-007ACC?style=for-the-badge&logo=visual-studio-code" alt="Metodología"></a>
-    <a href="#"><img src="https://img.shields.io/badge/ODS-3_%7C_6_%7C_9-4C9F38?style=for-the-badge&logo=unicef" alt="ODS"></a>
+    <a href="#"><img src="https://img.shields.io/badge/ODS-8_%7C_9_%7C_12-4C9F38?style=for-the-badge&logo=unicef" alt="ODS"></a>
     <a href="#"><img src="https://img.shields.io/badge/Licencia-MIT-orange?style=for-the-badge" alt="Licencia"></a>
   </p>
 </div>
 
 ---
 
-## 🌍 Descripción del Equipo y Misión
+## 🎯 Descripción del Proyecto
 
-> 💡 **Misión del Proyecto:** Aplicar el enfoque de *Design Thinking* para proponer soluciones innovadoras a retos vinculados a los Objetivos de Desarrollo Sostenible (ODS). Nuestra visión busca integrar la sostenibilidad ambiental con el análisis de datos avanzado, la optimización de procesos y la gestión logística. El propósito es diseñar soluciones tecnológicas que no solo monitoreen variables, sino que transformen grandes volúmenes de datos en información estratégica para la toma de decisiones, garantizando eficiencia, escalabilidad y un impacto real en la comunidad.
+> 💡 **Misión del Proyecto:** Este repositorio contiene el desarrollo del proyecto final del curso, aplicando la metodología de *Design Thinking* (Empatizar, Definir, Idear, Prototipar, Evaluar). Nuestro objetivo es analizar un problema real, procesar los datos asociados y proponer una solución innovadora.
 
 Somos el **Equipo 05** del curso *Procesos de Innovación en Ingeniería*. Nuestro valor diferencial es la **multidisciplinariedad**:
-* **Ingeniería Industrial:** Lidera la estructuración, el análisis de datos y la viabilidad logística para asegurar que la propuesta sea operativa, escalable y eficiente.
-* **Ingeniería Ambiental:** Garantiza que la solución responda a normativas y genere un impacto ecológico y social positivo.
-* **Ingeniería Informática:** Desarrolla la arquitectura de software, hardware (IoT) y la interfaz para la captura de información en tiempo real.
+* **Ingeniería Industrial:** Lidera la estructuración, el análisis de datos y la viabilidad logística para asegurar que la propuesta sea operativa, escalable y reduzca ineficiencias.
+* **Ingeniería Ambiental:** Garantiza que la solución responda a normativas y promueva la sostenibilidad de los recursos.
+* **Ingeniería Informática:** Desarrolla la arquitectura de software y hardware para la captura y procesamiento de información en tiempo real.
 
 ---
 
-## 🎯 Alineación con los ODS (Agenda 2030)
+## 🌍 Relación con los Objetivos de Desarrollo Sostenible (ODS)
 
-Nuestro proyecto aborda problemas críticos utilizando la tecnología y los datos como puente hacia la sostenibilidad:
+Nuestra solución tecnológica busca transformar grandes volúmenes de datos en información estratégica, impactando directamente en los siguientes ODS:
 
-| ODS | Meta Clave | Aplicación en el Proyecto | Impacto |
-| :---: | :--- | :--- | :---: |
-| <img src="Imagenes/ODS3.jpg" width="60" style="border-radius:50%"> | **Meta 3.9:** Reducir enfermedades por químicos y agua contaminada. | Levantamiento y análisis de datos en tiempo real para generar alertas tempranas y prevenir riesgos de consumo. | 🩺 **Salud Preventiva** |
-| <img src="Imagenes/ODS6.jpg" width="60" style="border-radius:50%"> | **Meta 6.1:** Lograr el acceso universal al agua potable. | Diseño de un sistema de recolección de información hídrica que optimice el uso de recursos en comunidades vulnerables. | 💧 **Agua Limpia** |
-| <img src="Imagenes/ODS9.jpg" width="60" style="border-radius:50%"> | **Meta 9.b:** Apoyar el desarrollo tecnológico y la innovación. | Creación de infraestructura basada en hardware de código abierto, optimizando la cadena de suministros del prototipo. | 💡 **Innovación** |
+| ODS | Meta Clave | Aplicación y Enfoque del Proyecto |
+| :---: | :--- | :--- |
+| <img src="Imagenes/ODS9.jpg" width="60" style="border-radius:50%"> | **ODS 9: Industria, Innovación e Infraestructura** | Optimización de procesos logísticos y modernización de infraestructura mediante el uso de tecnología y datos. |
+| <img src="Imagenes/ODS12.jpg" width="60" style="border-radius:50%"> | **ODS 12: Producción y Consumo Responsables** | Análisis de datos operativos para la reducción sistemática de mermas, desperdicios y uso ineficiente de recursos. |
+| <img src="Imagenes/ODS8.jpg" width="60" style="border-radius:50%"> | **ODS 8: Trabajo Decente y Crecimiento Económico** | Mejora de la productividad mediante la toma de decisiones basada en evidencia (*Data-driven*) y automatización. |
+
+*(Nota: Asegúrate de tener las imágenes ODS9.jpg, ODS12.jpg y ODS8.jpg en tu carpeta "Imagenes" para que se visualicen correctamente).*
 
 ---
 
@@ -56,9 +58,9 @@ Nuestro proyecto aborda problemas críticos utilizando la tecnología y los dato
 Aplicamos las fases iterativas de **Design Thinking** para estructurar nuestra solución tecnológica:
 - [x] **1. Empatizar:** Levantamiento de datos cualitativos (*Desk Research* y entrevistas) para comprender el ecosistema del usuario y sus cuellos de botella logísticos.
 - [ ] **2. Definir:** Procesamiento de *Insights* y delimitación del problema central basándonos en evidencia.
-- [ ] **3. Idear:** Generación de alternativas que crucen la viabilidad operativa con el impacto ambiental.
+- [ ] **3. Idear:** Generación de alternativas que crucen la viabilidad operativa con la eficiencia de recursos.
 - [ ] **4. Prototipar (En curso):** Ensamble del MVP (Producto Mínimo Viable) y estructuración de la base de datos central.
-- [ ] **5. Evaluar:** Pruebas piloto para medir la precisión de los datos recolectados y la usabilidad del sistema.
+- [ ] **5. Evaluar:** Pruebas piloto para medir la precisión de los datos recolectados y el impacto en la reducción de mermas.
 
 ---
 
@@ -67,11 +69,11 @@ Aplicamos las fases iterativas de **Design Thinking** para estructurar nuestra s
 | Componente | Estado |
 | :--- | :---: |
 | Investigación y minería de datos preliminar | 🔄 En curso |
-| Identificación de necesidades logísticas/ambientales | 🔄 En curso |
-| Definición del problema | 🔄 En curso |
+| Identificación de ineficiencias logísticas | 🔄 En curso |
+| Definición del problema (*Insights*) | 🔄 En curso |
 | Diseño del modelo de datos e infraestructura | 🔄 En curso |
 | Desarrollo de hardware (IoT) | 🔄 En curso |
-| Pruebas experimentales y validación | ⏳ Pendiente |
+| Pruebas de rendimiento y validación | ⏳ Pendiente |
 
 ---
 
@@ -81,12 +83,10 @@ Aplicamos las fases iterativas de **Design Thinking** para estructurar nuestra s
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
-
-
 
 ---
 

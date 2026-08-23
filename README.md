@@ -45,11 +45,11 @@ Nuestra solución tecnológica busca transformar grandes volúmenes de datos en 
 
 | Foto | Nombre | Rol Principal | Responsabilidades Clave | Correo Institucional |
 | :---: | :--- | :---: | :--- | :--- |
-| <img src="Imagenes/albert.jpg" width="60" style="border-radius:50%"> | **Albert Mauricio Diaz Silvera** | 📊 Analista de Datos y Logística | Estructuración de la información, evaluación de viabilidad y optimización de procesos. | `albert.diaz@upch.pe` |
-| <img src="Imagenes/ANDERSON.jpg" width="60" style="border-radius:50%"> | **Anderson Alonso Palomino** | 🔌 Desarrollador IoT | Programación de hardware e integración de sistemas tecnológicos. | `anderson.palomino@upch.pe` |
+| <img src="Imagenes/albert.jpg" width="60" style="border-radius:50%"> | **Albert Mauricio Diaz Silvera** | 📄Entrevistas y User Personas | Redacción científica y validación de entregables. | `albert.diaz@upch.pe` |
+| <img src="Imagenes/ANDERSON.jpg" width="60" style="border-radius:50%"> | **Anderson Alonso Palomino** | 📊 Analista de Datos y Logística | Estructuración de la información, evaluación de viabilidad y optimización de procesos.| `anderson.palomino@upch.pe` |
 | <img src="Imagenes/luisj.jpg" width="60" style="border-radius:50%"> | **Luis Gerardo Jara Mariño** | ⚙️ Diseñador de Hardware | Gestión de componentes físicos y redacción técnica de informes. | `luis.jara.m@upch.pe` |
-| <img src="Imagenes/ivana-flores.jpg" width="60" style="border-radius:50%"> | **Ivana Patricia Flores Ayala** | 🔬 Investigación y UX | Mapeo de usuarios (*User Persona*) y diseño de la experiencia interactiva. | `ivana.flores@upch.pe` |
-| <img src="Imagenes/JordyMV.jpg" width="60" style="border-radius:50%"> | **Martel Vásquez Jordy Joel** | 👑 Líder de Proyecto | Dirección del equipo, redacción científica y validación de entregables. | `jordy.martel@upch.pe` |
+| <img src="Imagenes/ivana-flores.jpg" width="60" style="border-radius:50%"> | **Ivana Patricia Flores Ayala** | 🔬 Investigación y Evaluación | Mapeo de usuarios y diseño de la experiencia interactiva. | `ivana.flores@upch.pe` |
+| <img src="Imagenes/JordyMV.jpg" width="60" style="border-radius:50%"> | **Martel Vásquez Jordy Joel** | 🔌 Desarrollador IoT y 👑 Líder | Programación de hardware e integración de sistemas tecnológicos. | `jordy.martel@upch.pe` |
 
 ---
 

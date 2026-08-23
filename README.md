@@ -65,7 +65,7 @@ Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sos
 
 ### Objetivo General
 
-Desarrollar una solución tecnológica de monitoreo multiparamétrico que permita recopilar, procesar y visualizar información relacionada con la calidad del agua, mediante una alternativa accesible, eficiente y orientada a la toma de decisiones.
+Desarrollar una solución tecnológica accesible y eficiente para monitorear, procesar y visualizar la calidad del agua para la toma de decisiones.
 
 ### Objetivos Específicos
 
@@ -75,10 +75,6 @@ Desarrollar una solución tecnológica de monitoreo multiparamétrico que permit
 - Facilitar la interpretación de los datos mediante una interfaz clara y comprensible para los usuarios.
 - Evaluar el funcionamiento del prototipo mediante pruebas experimentales.
 - Analizar la viabilidad de la solución considerando aspectos técnicos, económicos, sociales y ambientales.
-
----
-
-## 👥 Equipo Multidisciplinario y Contacto
 
 ---
 

@@ -143,7 +143,7 @@ Para facilitar la navegación y el control de versiones, el proyecto está organ
 
 ---
 
-## ✨ Contribuidores
+## ✨ Contributors
 
 <p align="center">
   <a href="https://github.com/jordymartel-hash/PI_Equipo05/graphs/contributors">

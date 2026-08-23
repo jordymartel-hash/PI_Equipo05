@@ -27,7 +27,7 @@
 * [📁 Estructura del Repositorio](#-estructura-del-repositorio)
 * [🛠️ Tecnologías y Herramientas](#️-tecnologías-y-herramientas)
 * [📬 Institución](#-Contacto-e-Institución)
-* [✨ Contribuidores](#-contribuidores)
+* [✨ Contributors](#-contribuidores)
 
 ---
 

@@ -74,14 +74,14 @@ Aplicamos las fases iterativas de **Design Thinking** para estructurar nuestra s
 
 ## 📊 Estado Actual del Proyecto
 
-| Componente | Estado |
-| :--- | :---: |
-| Investigación y minería de datos preliminar | 🔄 En curso |
-| Identificación de ineficiencias logísticas | 🔄 En curso |
-| Definición del problema (*Insights*) | 🔄 En curso |
-| Diseño del modelo de datos e infraestructura | 🔄 En curso |
-| Desarrollo de hardware (IoT) | 🔄 En curso |
-| Pruebas de rendimiento y validación | ⏳ Pendiente |
+                                                          | Componente | Estado |
+                                                          | :--- | :---: |
+                                                          | Investigación y minería de datos preliminar | 🔄 En curso |
+                                                          | Identificación de ineficiencias logísticas | 🔄 En curso |
+                                                          | Definición del problema (*Insights*) | 🔄 En curso |
+                                                          | Diseño del modelo de datos e infraestructura | 🔄 En curso |
+                                                          | Desarrollo de hardware (IoT) | 🔄 En curso |
+                                                          | Pruebas de rendimiento y validación | ⏳ Pendiente |
 
 ---
 

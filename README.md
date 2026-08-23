@@ -110,12 +110,10 @@ Aplicamos el marco de **Design Thinking** para desarrollar la solución de maner
 | Investigación del problema | ✅ Completado |
 | Identificación de necesidades | ✅ Completado |
 | Definición del problema | ✅ Completado |
-| Generación de alternativas | ✅ Completado |
 | Diseño del prototipo | 🔄 En curso |
 | Desarrollo de hardware | 🔄 En curso |
 | Plataforma de datos | 🔄 En curso |
 | Pruebas experimentales | ⏳ Pendiente |
-| Validación con usuarios | ⏳ Pendiente |
 
 ---
 

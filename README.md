@@ -45,6 +45,7 @@ El proyecto surge a partir de la necesidad de mejorar el acceso a información c
 Esta problemática dificulta la identificación oportuna de posibles riesgos asociados a la calidad del agua y limita la capacidad de los usuarios para tomar decisiones informadas sobre su entorno.
 
 Frente a esta situación, nuestro equipo plantea el desarrollo de una solución tecnológica de monitoreo multiparamétrico que permita recopilar, procesar y visualizar información relevante de manera accesible, eficiente y comprensible.
+
 ---
 
 ## 🎯 Alineación con los ODS (Agenda 2030)

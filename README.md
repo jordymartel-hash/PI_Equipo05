@@ -1,84 +1,132 @@
 <div align="center">
+  
   <img width="850" alt="Logo Universidad Peruana Cayetano Heredia" src="Imagenes/cayetano.png" style="border-radius: 15px;" />
+  
   <br><br>
 
-  <h1>🚀 Equipo 05 — Procesos de Innovación en Ingeniería</h1>
-  <p><b>Ingeniería Informática, Ambiental e Industrial</b><br>
-  <i>Universidad Peruana Cayetano Heredia (UPCH) • Semestre 2026-II</i></p>
+  <h1>🚀 Equipo 05 — Procesos de Innovación en Ingeniería - Proyecto 1</h1>
+  <p><b>Carreras de Ingeniería Informática, Ambiental e Industrial</b><br>
+  <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-2</i></p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Estado-En_Desarrollo-2ea44f?style=for-the-badge&logo=github" alt="Estado">
-    <img src="https://img.shields.io/badge/Metodología-Design_Thinking-007ACC?style=for-the-badge" alt="Metodología">
-    <img src="https://img.shields.io/badge/ODS-3_%7C_6_%7C_9-4C9F38?style=for-the-badge" alt="ODS">
+    <a href="#"><img src="https://img.shields.io/badge/Estado-En_Desarrollo-2ea44f?style=for-the-badge&logo=github" alt="Estado"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Metodología-Design_Thinking-007ACC?style=for-the-badge&logo=visual-studio-code" alt="Metodología"></a>
+    <a href="#"><img src="https://img.shields.io/badge/ODS-3_%7C_6_%7C_9-4C9F38?style=for-the-badge&logo=unicef" alt="ODS"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Licencia-MIT-orange?style=for-the-badge" alt="Licencia"></a>
   </p>
+
 </div>
 
 ---
 
-## 🌍 Descripción y Misión del Proyecto
-
-> 💡 **Misión:** Aplicar el *Design Thinking* para identificar y solucionar problemáticas reales mediante el desarrollo de tecnologías sostenibles y escalables. 
-
-Somos el **Equipo 05** del curso de *Procesos de Innovación en Ingeniería*. Nuestro valor agregado radica en la **multidisciplinariedad**:
-1. **Ingeniería Ambiental:** Garantiza la sostenibilidad y el impacto ecológico positivo.
-2. **Ingeniería Informática:** Desarrolla la infraestructura tecnológica, IoT y software.
-3. **Ingeniería Industrial:** Optimiza los procesos, asegura la viabilidad logística y lidera el análisis de datos para la toma de decisiones.
-
----
-
-## 🎯 Alineación con la Agenda 2030 (ODS)
-
-| ODS | Meta Clave | Aplicación y Solución del Proyecto |
-| :---: | :--- | :--- |
-| <img src="Imagenes/ODS3.jpg" width="60" style="border-radius:50%"> | **3.9:** Reducir enfermedades por contaminación. | Sistema de diagnóstico preventivo basado en análisis de datos. |
-| <img src="Imagenes/ODS6.jpg" width="60" style="border-radius:50%"> | **6.1:** Acceso universal al agua potable. | Hardware de bajo costo para monitoreo hídrico en tiempo real. |
-| <img src="Imagenes/ODS9.jpg" width="60" style="border-radius:50%"> | **9.b:** Fomentar la innovación tecnológica. | Infraestructura de código abierto y optimización logística. |
+## 📋 Tabla de Contenidos
+* [🌍 Descripción del Equipo y Misión](#-descripción-del-equipo-y-misión)
+* [🎯 Alineación con los ODS](#-alineación-con-los-ods-agenda-2030)
+* [👥 Equipo Multidisciplinario y Contacto](#-equipo-multidisciplinario-y-contacto)
+* [🔄 Metodología de Trabajo](#-metodología-de-trabajo)
+* [🛠️ Tecnologías y Herramientas](#️-tecnologías-y-herramientas)
+* [📬 Institución](#-Contacto-e-Institución)
+* [✨ Contributors](#-contribuidores)
 
 ---
 
-## 👥 Equipo Multidisciplinario
+## 🌍 Descripción del Equipo y Misión
 
-| Foto | Nombre | Rol Principal | Enfoque | Contacto |
-| :---: | :--- | :---: | :--- | :--- |
-| <img src="Imagenes/albert.jpg" width="60" style="border-radius:50%"> | **Albert Diaz Silvera** | 📊 Gestor de Datos | Análisis estadístico y viabilidad logística | `albert.diaz@upch.pe` |
-| <img src="Imagenes/ANDERSON.jpg" width="60" style="border-radius:50%"> | **Anderson Palomino** | 🔌 Desarrollador IoT | Conexiones de hardware y repositorio | `anderson.palomino@upch.pe` |
-| <img src="Imagenes/luisj.jpg" width="60" style="border-radius:50%"> | **Luis Jara Mariño** | ⚙️ Diseño de Hardware | Gestión física e informes técnicos | `luis.jara.m@upch.pe` |
-| <img src="Imagenes/ivana-flores.jpg" width="60" style="border-radius:50%"> | **Ivana Flores Ayala** | 🔬 Investigación y UX | Interfaz, *insights* y necesidades del usuario | `ivana.flores@upch.pe` |
-| <img src="Imagenes/JordyMV.jpg" width="60" style="border-radius:50%"> | **Jordy Martel Vásquez** | 👑 Liderazgo | Redacción científica y comunicación | `jordy.martel@upch.pe` |
+> 💡 Nuestro Objetivo: Aplicar el análisis de datos y la optimización de procesos para resolver problemáticas de sostenibilidad, buscando identificar cuellos de botella y exceso de mermas en cadenas de suministro/logística. Mediante la recopilación y análisis de datos, propondremos una solución que optimice el uso de recursos, reduciendo el impacto ambiental y mejorando la eficiencia operativa.
+
+**Somos el Equipo 05 del curso Procesos de Innovación en Ingeniería (2026-2) de la Universidad Peruana Cayetano Heredia. Nuestro equipo está conformado por estudiantes de Ingeniería Informática, Ambiental e Industrial, lo que nos permite abordar los retos de diseño desde diferentes campos de estudio y perspectivas de la ingeniería. Esta diversidad abre la posibilidad de integrar el desarrollo tecnológico y de software, la gestión y sostenibilidad ambiental, la optimización de procesos y recursos, logrando un enfoque multidisciplinario para desarrollar soluciones innovadoras, eficientes, orientadas a las necesidades reales de la sociedad y la comunidad.**
+---
+
+## 🎯 Alineación con los ODS 
+
+Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sostenible (ODS):
+
+| ODS | Meta Clave | Aplicación en el Proyecto | Impacto Visual |
+| :---: | :---: | :---: | :---: |
+| <img src="Imagenes/ODS3.jpg" width="80" style="border-radius:50%"> | **Meta 3.9:** Reducir muertes y enfermedades causadas por agua contaminada y químicos peligrosos. | Sistema de diagnóstico preventivo en tiempo real que alerta al usuario de riesgos de consumo. | 🩺 **Salud Preventiva** |
+| <img src="Imagenes/ODS6.jpg" width="80" style="border-radius:50%"> | **Meta 6.1:** Lograr el acceso universal y equitativo al agua potable a un precio accesible. | Democratización del monitoreo hídrico mediante hardware de bajo costo para comunidades necesitadas. | 💧 **Agua Limpia** |
+| <img src="Imagenes/ODS9.jpg" width="80" style="border-radius:50%"> | **Meta 9.b:** Apoyar el desarrollo de tecnologías, la investigación y la innovación nacional. | Desarrollo de infraestructura tecnológica propia, accesible y basada en hardware de código abierto. | 💡 **Innovación** |
 
 ---
 
-## 🔄 Metodología: Design Thinking
+## 👥 Equipo Multidisciplinario y Contacto
 
-- [x] **1. Empatizar:** Investigación cualitativa, levantamiento de información y creación de mapas de empatía (*Desk Research*).
-- [ ] **2. Definir:** Determinación de *Insights* y formulación del problema central.
-- [ ] **3. Idear:** Evaluación de alternativas técnicas y logísticas.
-- [ ] **4. Prototipar:** Ensamble de MVP (Hardware/Software) y despliegue de arquitectura de datos.
-- [ ] **5. Evaluar:** Pruebas y redefinición del concepto de solución.
+💡 **Enfoque colaborativo:** *Combinamos nuestras habilidades para crear soluciones tecnológicas con rigor científico y sensibilidad social.*
+
+| Foto | Nombre | Rol Principal | Responsabilidades Clave | Correo Institucional |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="Imagenes/albert.jpg" width="80" style="border-radius:50%"> | **Albert Mauricio Diaz Silvera** | 📄 Gestor de Datos | Logica y creatividad aplicada. | `albert.diaz@upch.pe` |
+| <img src="Imagenes/ANDERSON.jpg" width="80" style="border-radius:50%"> | **Anderson Alonso Palomino** | 🎯 Desarrollador IoT  | Programación de conexiones de hardware y administración del repositorio. | `anderson.palomino@upch.pe` |
+| <img src="Imagenes/luisj.jpg" width="80" style="border-radius:50%"> | **Luis Gerardo Jara Mariño** | ⚖️ Diseñador de Hardware | Redacción de informes, gestión | `luis.jara.m@upch.pe` |
+| <img src="Imagenes/ivana-flores.jpg" width="80" style="border-radius:50%"> | **Ivana Patricia Flores Ayala** | 🤝 Investigación y Evaluación | Prototipado, experiencia de usuario | `ivana.flores@upch.pe` |
+| <img src="Imagenes/JordyMV.jpg" width="80" style="border-radius:50%"> | **Martel Vásquez Jordy Joel** | 👑 Líder | Comunicación científica, Redacción técnica. | `jordy.martel@upch.pe` |
+
+---
+
+## 🔄 Metodología de Trabajo
+
+Aplicamos el marco de **Design Thinking** para desarrollar la solución de manera iterativa, partiendo de las necesidades identificadas hasta llegar a la validación del prototipo.
+* [ ] **1. Empatizar:** Levantamiento de necesidades, problemáticas y expectativas de los usuarios, considerando las características del contexto ambiental y social.
+* [ ] **2. Definir:** Delimitación del problema central a partir de la información recopilada, estableciendo objetivos, requerimientos técnicos y criterios de diseño.
+* [ ] **3. Idear:** Generación y evaluación de diferentes alternativas de solución de hardware y software multiparamétrico, considerando su viabilidad, accesibilidad e impacto.
+* [ ] **4. Prototipar (En curso):** Ensamble del primer prototipo físico y desarrollo de la plataforma de datos, integrando los componentes tecnológicos necesarios.
+* [ ] **5. Testear:** Realización de pruebas experimentales y validación con usuarios para evaluar el funcionamiento, precisión, usabilidad y oportunidades de mejora.
+
+---
+
+<div align="center">
+
+## 📊 Estado Actual del Proyecto
+
+| Componente | Estado |
+| :--- | :---: |
+| Investigación del problema | 🔄 En curso |
+| Identificación de necesidades | 🔄 En curso |
+| Definición del problema | 🔄 En curso |
+| Diseño del prototipo | 🔄 En curso |
+| Desarrollo de hardware | 🔄 En curso |
+| Plataforma de datos | 🔄 En curso |
+| Pruebas experimentales | ⏳ Pendiente |
+
+</div>
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 ---
 
-## 📬 Institución
+## 📬 Contacto e Institución
 
-* **Universidad:** [Universidad Peruana Cayetano Heredia](https://www.cayetano.edu.pe)
-* **Curso:** Procesos de Innovación en Ingeniería (Código: C1621)
-* **Docentes:** Umbert De La Cruz (Coordinador) / Claudia Dejo Prado
+* **Universidad:** [Universidad Peruana Cayetano Heredia (UPCH)](https://www.cayetano.edu.pe)
+* **Curso:** Procesos de Innovación en Ingeniería (2026-2)
+* **Repositorio GitHub:** [jordymartel-hash/PI_Equipo05](https://github.com/jordymartel-hash/PI_Equipo05)
+* **Coordinador del curso:** UMBERT LEWIS DE LA CRUZ RODRIGUEZ 👨‍🏫
+* **Docente:** CLAUDIA ESTEFANIA DEJO PRADO 👩‍🏫
 
-<div align="center">
-  <br>
-  <img src="Imagenes/grupo05.png" width="800" style="border-radius: 15px;">
-  <p><i>Figura 1. Integrantes del Equipo 05</i></p>
-  <p><sub>UPCH © 2026</sub></p>
-</div>
+---
+
+## ✨ Contributors
+<p align="center">
+  <a href="https://github.com/jordymartel-hash/PI_Equipo05/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=jordymartel-hash/PI_Equipo05&limpiarcache=12345" alt="Gráfico de Contribuidores" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="Imagenes/grupo05.png" width="850" style="max-width: 100%; height: auto; border-radius: 15px;">
+</p>
+<p align="center">Figura 1. Fotografía del equipo 05</p>
+
+<p align="center">
+  <sub>Desarrollado con compromiso por el <b>Equipo 05</b> • UPCH © 2026</sub>
+</p>

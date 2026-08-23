@@ -49,9 +49,9 @@ Frente a esta situación, nuestro equipo plantea el desarrollo de una solución 
 
 ---
 
-## 🎯 Alineación con los ODS (Agenda 2030)
+## 🎯 Alineación con los ODS 
 
-Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sostenible (ODS) de la ONU:
+Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sostenible (ODS):
 
 | ODS | Meta Clave | Aplicación en el Proyecto | Impacto Visual |
 | :---: | :---: | :---: | :---: |

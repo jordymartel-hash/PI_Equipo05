@@ -51,23 +51,6 @@ Nuestro proyecto se alinea estratégicamente con los Objetivos de Desarrollo Sos
 
 ---
 
-## 🎯 Objetivos del Proyecto
-
-### Objetivo General
-
-Desarrollar una solución tecnológica accesible y eficiente para monitorear, procesar y visualizar la calidad del agua para la toma de decisiones.
-
-### Objetivos Específicos
-
-- Diseñar un prototipo capaz de recopilar diferentes parámetros relacionados con la calidad del agua.
-- Integrar sensores y componentes electrónicos en una plataforma funcional para la adquisición de datos.
-- Desarrollar una plataforma digital para almacenar, procesar y visualizar la información obtenida.
-- Facilitar la interpretación de los datos mediante una interfaz clara y comprensible para los usuarios.
-- Evaluar el funcionamiento del prototipo mediante pruebas experimentales.
-- Analizar la viabilidad de la solución considerando aspectos técnicos, económicos, sociales y ambientales.
-
----
-
 ## 👥 Equipo Multidisciplinario y Contacto
 
 💡 **Enfoque colaborativo:** *Combinamos nuestras habilidades para crear soluciones tecnológicas con rigor científico y sensibilidad social.*

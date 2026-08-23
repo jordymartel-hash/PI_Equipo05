@@ -111,22 +111,6 @@ Aplicamos el marco de **Design Thinking** para desarrollar la solución de maner
 
 ---
 
-## 📁 Estructura del Repositorio
-
-Para facilitar la navegación y el control de versiones, el proyecto está organizado de la siguiente manera:
-
-```text
-📁 PI_Equipo05/
-│
-├── 📁 Documentación/     # Informes técnicos, entregables y matriz de diseño
-├── 📁 Hardware/          # Diagramas circuitales, esquemáticos y modelos 3D
-├── 📁 Imagenes/          # Recursos gráficos, fotografías del equipo y logos
-├── 📁 Software/          # Código fuente del microcontrolador, scripts y web
-└── 📄 README.md          # Presentación general del proyecto
-```
-
----
-
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">

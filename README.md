@@ -109,9 +109,9 @@ Aplicamos el marco de **Design Thinking** para desarrollar la solución de maner
 
 | Componente | Estado |
 | :--- | :---: |
-| Investigación del problema | ✅ Completado |
-| Identificación de necesidades | ✅ Completado |
-| Definición del problema | ✅ Completado |
+| Investigación del problema | 🔄 En curso |
+| Identificación de necesidades | 🔄 En curso |
+| Definición del problema | 🔄 En curso |
 | Diseño del prototipo | 🔄 En curso |
 | Desarrollo de hardware | 🔄 En curso |
 | Plataforma de datos | 🔄 En curso |
